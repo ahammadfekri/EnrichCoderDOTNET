@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WCRM.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca1e5798f7802a06c2af8cf821dafb8ece3eec7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299e48af41b40dee8862d61200f21a0c3f6e99bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WCRM.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WCRM.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

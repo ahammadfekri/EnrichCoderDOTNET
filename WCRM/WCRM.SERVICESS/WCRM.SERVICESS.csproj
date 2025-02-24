@@ -7,11 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ACCOUNTS\" />
+    <Compile Remove="ACCOUNTS\**" />
+    <EmbeddedResource Remove="ACCOUNTS\**" />
+    <None Remove="ACCOUNTS\**" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\WCRM.DataAccess\WCRM.DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="FrontEnd\" />
   </ItemGroup>
 
 </Project>

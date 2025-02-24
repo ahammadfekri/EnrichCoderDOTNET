@@ -7,8 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ACCOUNTS\" />
-    <Folder Include="HRMS\" />
+    <Compile Remove="ACCOUNTS\**" />
+    <Compile Remove="HRMS\**" />
+    <EmbeddedResource Remove="ACCOUNTS\**" />
+    <EmbeddedResource Remove="HRMS\**" />
+    <None Remove="ACCOUNTS\**" />
+    <None Remove="HRMS\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="FrontEnd\" />
   </ItemGroup>
 
 </Project>

@@ -1,7 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using WCRM.Models;
-using WCRM.SERVICESS.HRMS;
+
 using WCRM.SERVICESS.SHARED;
 
 

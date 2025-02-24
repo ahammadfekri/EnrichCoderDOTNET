@@ -270,8 +270,8 @@ D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\
 D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\appsettings.Development.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\appsettings.json
-D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.ADMIN.staticwebassets.endpoints.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.ADMIN.staticwebassets.runtime.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.ADMIN.staticwebassets.endpoints.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.ADMIN.exe
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.ADMIN.deps.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.ADMIN.runtimeconfig.json

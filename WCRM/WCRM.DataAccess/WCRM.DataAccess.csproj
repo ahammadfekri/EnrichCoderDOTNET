@@ -7,6 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ACCOUNTS\**" />
+    <Compile Remove="HRMS\**" />
+    <EmbeddedResource Remove="ACCOUNTS\**" />
+    <EmbeddedResource Remove="HRMS\**" />
+    <None Remove="ACCOUNTS\**" />
+    <None Remove="HRMS\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="SHARED\BaseDataAccess.cs" />
   </ItemGroup>
 
@@ -15,11 +24,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ACCOUNTS\" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+    <Folder Include="FrontEnd\" />
   </ItemGroup>
 
 </Project>

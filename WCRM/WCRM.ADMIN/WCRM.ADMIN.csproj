@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WCRM.MODEL\WCRM.MODEL.csproj" />
     <ProjectReference Include="..\WCRM.SERVICESS\WCRM.SERVICESS.csproj" />
   </ItemGroup>
 

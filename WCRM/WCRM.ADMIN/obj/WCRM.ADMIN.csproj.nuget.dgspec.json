@@ -33,6 +33,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
+                "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj"
+              },
               "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj": {
                 "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj"
               }

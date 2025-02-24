@@ -6638,6 +6638,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
+      "WCRM.MODEL >= 1.0.0",
       "WCRM.SERVICESS >= 1.0.0"
     ]
   },
@@ -6674,6 +6675,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
+              "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj"
+            },
             "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj": {
               "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj"
             }

@@ -627,8 +627,8 @@ D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM\obj\Debug\net8.0\WCRM.g
 D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM\obj\Debug\net8.0\ref\WCRM.dll
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\CustomConfig\appsettings.Development.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\CustomConfig\appsettings.json
-D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\WCRM.staticwebassets.endpoints.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\WCRM.staticwebassets.runtime.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\WCRM.staticwebassets.endpoints.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\WCRM.exe
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\WCRM.deps.json
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\bin\Debug\net8.0\WCRM.runtimeconfig.json

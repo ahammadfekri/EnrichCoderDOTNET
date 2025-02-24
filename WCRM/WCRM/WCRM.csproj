@@ -7,22 +7,28 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Views\HRMS\Employees\**" />
-    <Content Remove="Views\HRMS\Employees\**" />
-    <EmbeddedResource Remove="Views\HRMS\Employees\**" />
-    <None Remove="Views\HRMS\Employees\**" />
+    <Compile Remove="Controllers\ACCOUNTS\**" />
+    <Compile Remove="Controllers\HRMS\**" />
+    <Compile Remove="Views\ACCOUNTS\**" />
+    <Compile Remove="Views\HRMS\**" />
+    <Content Remove="Controllers\ACCOUNTS\**" />
+    <Content Remove="Controllers\HRMS\**" />
+    <Content Remove="Views\ACCOUNTS\**" />
+    <Content Remove="Views\HRMS\**" />
+    <EmbeddedResource Remove="Controllers\ACCOUNTS\**" />
+    <EmbeddedResource Remove="Controllers\HRMS\**" />
+    <EmbeddedResource Remove="Views\ACCOUNTS\**" />
+    <EmbeddedResource Remove="Views\HRMS\**" />
+    <None Remove="Controllers\ACCOUNTS\**" />
+    <None Remove="Controllers\HRMS\**" />
+    <None Remove="Views\ACCOUNTS\**" />
+    <None Remove="Views\HRMS\**" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\WCRM.DataAccess\WCRM.DataAccess.csproj" />
     <ProjectReference Include="..\WCRM.MODEL\WCRM.MODEL.csproj" />
     <ProjectReference Include="..\WCRM.SERVICESS\WCRM.SERVICESS.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\ACCOUNTS\" />
-    <Folder Include="Views\ACCOUNTS\" />
-    <Folder Include="Views\HRMS\" />
   </ItemGroup>
 
   <ItemGroup>
