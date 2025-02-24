@@ -1,0 +1,11 @@
+D:\Fekri\Projects\WCRM\MODEL\bin\Debug\net8.0\MODEL.deps.json
+D:\Fekri\Projects\WCRM\MODEL\bin\Debug\net8.0\MODEL.dll
+D:\Fekri\Projects\WCRM\MODEL\bin\Debug\net8.0\MODEL.pdb
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\MODEL.AssemblyInfoInputs.cache
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\MODEL.AssemblyInfo.cs
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\MODEL.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\MODEL.dll
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\refint\MODEL.dll
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\MODEL.pdb
+D:\Fekri\Projects\WCRM\MODEL\obj\Debug\net8.0\ref\MODEL.dll

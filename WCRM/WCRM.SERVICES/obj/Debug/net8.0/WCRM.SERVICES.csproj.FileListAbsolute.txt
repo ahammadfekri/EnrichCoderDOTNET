@@ -1,0 +1,11 @@
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\bin\Debug\net8.0\WCRM.SERVICES.deps.json
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\bin\Debug\net8.0\WCRM.SERVICES.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\bin\Debug\net8.0\WCRM.SERVICES.pdb
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\WCRM.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\WCRM.SERVICES.AssemblyInfoInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\WCRM.SERVICES.AssemblyInfo.cs
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\WCRM.SERVICES.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\WCRM.SERVICES.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\refint\WCRM.SERVICES.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\WCRM.SERVICES.pdb
+D:\Fekri\Projects\WCRM\WCRM.SERVICES\obj\Debug\net8.0\ref\WCRM.SERVICES.dll

@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\HRMS\Employees\**" />
+    <Content Remove="Views\HRMS\Employees\**" />
+    <EmbeddedResource Remove="Views\HRMS\Employees\**" />
+    <None Remove="Views\HRMS\Employees\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WCRM.DataAccess\WCRM.DataAccess.csproj" />
+    <ProjectReference Include="..\WCRM.MODEL\WCRM.MODEL.csproj" />
+    <ProjectReference Include="..\WCRM.SERVICESS\WCRM.SERVICESS.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\ACCOUNTS\" />
+    <Folder Include="Views\ACCOUNTS\" />
+    <Folder Include="Views\HRMS\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+</Project>

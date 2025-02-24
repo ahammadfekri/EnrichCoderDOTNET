@@ -1,0 +1,61 @@
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.deps.json
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.Dat.D7CED02C.Up2Date
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\refint\WCRM.DataAccess.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.DataAccess\obj\Debug\net8.0\ref\WCRM.DataAccess.dll
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.deps.json
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.AssemblyReference.cache
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfoInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfo.cs
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.Dat.D7CED02C.Up2Date
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\refint\WCRM.DataAccess.dll
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\WCRM\WCRM.DataAccess\obj\Debug\net8.0\ref\WCRM.DataAccess.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.deps.json
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.AssemblyReference.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfo.cs
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.Dat.D7CED02C.Up2Date
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\refint\WCRM.DataAccess.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\ref\WCRM.DataAccess.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.deps.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.AssemblyReference.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.AssemblyInfo.cs
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.sourcelink.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.Dat.D7CED02C.Up2Date
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\refint\WCRM.DataAccess.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.DataAccess\obj\Debug\net8.0\ref\WCRM.DataAccess.dll

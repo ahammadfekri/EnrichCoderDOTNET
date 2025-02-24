@@ -1,0 +1,69 @@
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.deps.json
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SER.6B8152D3.Up2Date
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\refint\WCRM.SERVICESS.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\ref\WCRM.SERVICESS.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.deps.json
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.pdb
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.AssemblyReference.cache
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfoInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfo.cs
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SER.6B8152D3.Up2Date
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\refint\WCRM.SERVICESS.dll
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.pdb
+D:\Fekri\Projects\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\ref\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.deps.json
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.AssemblyReference.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfo.cs
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SER.6B8152D3.Up2Date
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\refint\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\ref\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.deps.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.SERVICESS.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.DataAccess.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.AssemblyReference.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.AssemblyInfo.cs
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.sourcelink.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SER.6B8152D3.Up2Date
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\refint\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\WCRM.SERVICESS.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.SERVICESS\obj\Debug\net8.0\ref\WCRM.SERVICESS.dll
