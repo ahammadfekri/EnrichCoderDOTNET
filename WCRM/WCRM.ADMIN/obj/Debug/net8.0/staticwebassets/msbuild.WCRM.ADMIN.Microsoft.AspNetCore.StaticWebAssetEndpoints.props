@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/css/admin.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\admin.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MPiUae5nbdYPyJVy1Su2K9zlOuISBZ64LYirvHJmX8M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"209"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MPiUae5nbdYPyJVy1Su2K9zlOuISBZ64LYirvHJmX8M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 10:59:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/css/admin.shbk9q7fcw.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\admin.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"shbk9q7fcw"},{"Name":"integrity","Value":"sha256-MPiUae5nbdYPyJVy1Su2K9zlOuISBZ64LYirvHJmX8M="},{"Name":"label","Value":"_content/WCRM.ADMIN/css/admin.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"209"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MPiUae5nbdYPyJVy1Su2K9zlOuISBZ64LYirvHJmX8M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 10:59:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -720,17 +732,233 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 06:46:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:06:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:06:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:03:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:03:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Mar 2025 08:14:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Mar 2025 08:14:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:16:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:16:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:35:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:35:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:00:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:00:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:42:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:42:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 09:12:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 09:12:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:44:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:44:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 03:34:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 03:34:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 09:14:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 09:14:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:16:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:16:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 03:30:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 03:30:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 10:52:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 10:52:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.24ut41cv24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24ut41cv24"},{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:40:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12545704"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ThpZT5f1f4Oxvjocair5KoJKCaLiKQEKdzdlkA6iiFY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:40:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 03:40:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 03:40:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:30:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 05:30:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 10:55:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/uploads/fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.xerxczjb8b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xerxczjb8b"},{"Name":"integrity","Value":"sha256-CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k="},{"Name":"label","Value":"_content/WCRM.ADMIN/uploads/fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3807826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CfG\u002Ba38o1dxfX5vGRpnj8/LgMuRlBricv99CrjSp38k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 10:55:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/WCRM.ADMIN.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WCRM.ADMIN.w9d2wcv7jc.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TNAwKq5\u002B9jOl3R7674hc8py7YK6nOgtJoNDS0vAgse4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TNAwKq5\u002B9jOl3R7674hc8py7YK6nOgtJoNDS0vAgse4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 08:54:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TNAwKq5\u002B9jOl3R7674hc8py7YK6nOgtJoNDS0vAgse4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 06:42:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WCRM.ADMIN/WCRM.ADMIN.w9d2wcv7jc.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WCRM.ADMIN.w9d2wcv7jc.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w9d2wcv7jc"},{"Name":"integrity","Value":"sha256-TNAwKq5\u002B9jOl3R7674hc8py7YK6nOgtJoNDS0vAgse4="},{"Name":"label","Value":"_content/WCRM.ADMIN/WCRM.ADMIN.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TNAwKq5\u002B9jOl3R7674hc8py7YK6nOgtJoNDS0vAgse4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 08:54:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TNAwKq5\u002B9jOl3R7674hc8py7YK6nOgtJoNDS0vAgse4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 06:42:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

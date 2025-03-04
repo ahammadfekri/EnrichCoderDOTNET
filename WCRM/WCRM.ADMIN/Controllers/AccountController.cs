@@ -5,21 +5,35 @@ using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using WCRM.SERVICESS.AdminPanel;
 using WCRM.MODEL.AdminPanel;
+using WCRM.SERVICESS.SHARED;
 
 namespace WCRM.ADMIN.Controllers
 {
     public class AccountController : Controller
     {
+        private IConfiguration Configuration;
+
+        public AccountController(IConfiguration _configuration)
+        {
+            //_DB Connection;
+
+            Configuration = _configuration;
+        }
         User_Service objUserService;
         // GET: /Account/Login
         [HttpGet]
         public IActionResult Login()
         {
+            #region
+            string connString = string.Empty;
+            connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
+            DBConnectionServices.DatabaseConn(connString);
+            #endregion   
             return View();  // This renders the Login.cshtml view
         }
 
         [HttpPost]
-        public IActionResult Login(string username, string password)
+        public async Task<IActionResult> Login(string username, string password)
         {
             objUserService = new User_Service();
             UserModel ob = new UserModel();
@@ -28,11 +42,25 @@ namespace WCRM.ADMIN.Controllers
             if (objUserService.ValidateUser(ob))  // Replace with DB validation
             {
                 // Cookie authentication logic here
-                return RedirectToAction("Index", "Home"); // Redirect after successful login
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, username)
+                };
+
+                var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                var principal = new ClaimsPrincipal(identity);
+
+                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
+                return RedirectToAction("Index", "Admin"); // Redirect after successful login
             }
 
             ViewBag.Message = "Invalid username or password";
             return View();
+        }
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Login", "Account");
         }
     }
 }

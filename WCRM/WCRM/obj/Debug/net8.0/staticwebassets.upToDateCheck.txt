@@ -1,5 +1,11 @@
 wwwroot\css\site.css
+wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\images\hero-bg.jpg
+wwwroot\images\image1.png
+wwwroot\images\image2.png
+wwwroot\images\image3.png
+wwwroot\images\logo.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

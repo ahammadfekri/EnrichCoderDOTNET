@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,10 @@ namespace WCRM.DataAccess.SHARED
         public static string GetConnectionString()
         {
              return DataAccessDBConn;
+        }
+        public static SqlConnection GetConnection()
+        {
+            return new SqlConnection(DBConnection.GetConnectionString());
         }
     }
 }

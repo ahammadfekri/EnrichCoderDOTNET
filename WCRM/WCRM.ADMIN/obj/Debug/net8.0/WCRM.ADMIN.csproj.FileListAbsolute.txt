@@ -508,9 +508,9 @@ D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNE
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.DataAccess.dll
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.MODEL.dll
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.SERVICESS.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.MODEL.pdb
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.SERVICESS.pdb
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.DataAccess.pdb
-D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\bin\Debug\net8.0\WCRM.MODEL.pdb
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\obj\Debug\net8.0\WCRM.ADMIN.csproj.AssemblyReference.cache
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\obj\Debug\net8.0\WCRM.ADMIN.GeneratedMSBuildEditorConfig.editorconfig
 D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.ADMIN\obj\Debug\net8.0\WCRM.ADMIN.AssemblyInfoInputs.cache

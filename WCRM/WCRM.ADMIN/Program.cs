@@ -3,12 +3,17 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using WCRM.DataAccess.AdminPanel;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+// Register DatabaseHelper as a service
+builder.Services.AddSingleton<User_DataAccess>();
+// Register Project_DataAccess
+builder.Services.AddScoped<Project_DataAccess>(provider =>
+    new Project_DataAccess(builder.Configuration.GetConnectionString("WeblinkDBConnection")));
 // Add Cookie Authentication
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
@@ -31,6 +36,6 @@ app.UseRouting();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 
 app.Run();
