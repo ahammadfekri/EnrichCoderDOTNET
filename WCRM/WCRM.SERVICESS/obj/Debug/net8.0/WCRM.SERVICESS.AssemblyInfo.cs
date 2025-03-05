@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WCRM.SERVICESS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0150757bd2abe71c46e9abce8064de8899cc00a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5601d3d74b5df9689bfe04e5de10d47f366a9f71")]
 [assembly: System.Reflection.AssemblyProductAttribute("WCRM.SERVICESS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WCRM.SERVICESS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,10 @@ builder.Services.AddSingleton<User_DataAccess>();
 // Register Project_DataAccess
 builder.Services.AddScoped<Project_DataAccess>(provider =>
     new Project_DataAccess(builder.Configuration.GetConnectionString("WeblinkDBConnection")));
+// Register Hero Section
+builder.Services.AddScoped<HeroSection_DataAccess>(provider =>
+    new HeroSection_DataAccess(builder.Configuration.GetConnectionString("WeblinkDBConnection")));
+
 // Add Cookie Authentication
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>

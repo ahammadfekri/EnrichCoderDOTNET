@@ -3,112 +3,36 @@
   "WorkspaceRootPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|solutionrelative:wcrm\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.dataaccess\\adminpanel\\herosection_dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|solutionrelative:wcrm.dataaccess\\adminpanel\\herosection_dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm\\views\\home\\partial\\_herosection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|solutionrelative:wcrm\\views\\home\\partial\\_herosection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\herosection\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\herosection\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|solutionrelative:wcrm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\controllers\\herosectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\controllers\\herosectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|solutionrelative:wcrm\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\herosection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\herosection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|solutionrelative:wcrm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9548FEB3-82D7-4FE2-A78F-0533ABAF4E93}|WCRM.MODEL\\WCRM.MODEL.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.model\\adminpanel\\herosectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9548FEB3-82D7-4FE2-A78F-0533ABAF4E93}|WCRM.MODEL\\WCRM.MODEL.csproj|solutionrelative:wcrm.model\\adminpanel\\herosectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm\\customconfig\\appstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D992308-1C60-428F-98ED-9E8A5E335D19}|WCRM\\WCRM.csproj|solutionrelative:wcrm\\customconfig\\appstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\portfolio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\portfolio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.dataaccess\\adminpanel\\project_dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|solutionrelative:wcrm.dataaccess\\adminpanel\\project_dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\portfolio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\portfolio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9548FEB3-82D7-4FE2-A78F-0533ABAF4E93}|WCRM.MODEL\\WCRM.MODEL.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.model\\adminpanel\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9548FEB3-82D7-4FE2-A78F-0533ABAF4E93}|WCRM.MODEL\\WCRM.MODEL.csproj|solutionrelative:wcrm.model\\adminpanel\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\herosection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\herosection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.dataaccess\\shared\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|solutionrelative:wcrm.dataaccess\\shared\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.dataaccess\\adminpanel\\user_dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD88E51-A205-43EE-B36F-9D493067CA2C}|WCRM.DataAccess\\WCRM.DataAccess.csproj|solutionrelative:wcrm.dataaccess\\adminpanel\\user_dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE8014F0-C4B7-47BF-AD2D-3BED2129002A}|WCRM.SERVICESS\\WCRM.SERVICESS.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.servicess\\adminpanel\\user_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE8014F0-C4B7-47BF-AD2D-3BED2129002A}|WCRM.SERVICESS\\WCRM.SERVICESS.csproj|solutionrelative:wcrm.servicess\\adminpanel\\user_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|d:\\fekri\\projects\\git project\\enrich coder website dot net\\wcrm\\enrichcoderdotnet\\wcrm\\wcrm.admin\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B89CC0-EB3D-4295-9A55-1124915538C2}|WCRM.ADMIN\\WCRM.ADMIN.csproj|solutionrelative:wcrm.admin\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,335 +42,111 @@
       "DocumentGroups": [
         {
           "DockedHeight": 212,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "WCRM\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "WCRM\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-03T05:44:52.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WCRM\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WCRM\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\HeroSection\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\HeroSection\\Edit.cshtml",
+              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\HeroSection\\Edit.cshtml",
+              "RelativeToolTip": "WCRM.ADMIN\\Views\\HeroSection\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T05:14:09.48Z",
+              "WhenOpened": "2025-03-05T08:59:20.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "style.css",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "WCRM\\wwwroot\\css\\style.css",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "WCRM\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwMMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-02T05:12:59.094Z",
+              "Title": "HeroSection_DataAccess.cs",
+              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\AdminPanel\\HeroSection_DataAccess.cs",
+              "RelativeDocumentMoniker": "WCRM.DataAccess\\AdminPanel\\HeroSection_DataAccess.cs",
+              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\AdminPanel\\HeroSection_DataAccess.cs",
+              "RelativeToolTip": "WCRM.DataAccess\\AdminPanel\\HeroSection_DataAccess.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwH8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:55:23.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_HeroSection.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\Views\\Home\\Partial\\_HeroSection.cshtml",
-              "RelativeDocumentMoniker": "WCRM\\Views\\Home\\Partial\\_HeroSection.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\Views\\Home\\Partial\\_HeroSection.cshtml",
-              "RelativeToolTip": "WCRM\\Views\\Home\\Partial\\_HeroSection.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\HeroSection\\Create.cshtml",
+              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\HeroSection\\Create.cshtml",
+              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\HeroSection\\Create.cshtml",
+              "RelativeToolTip": "WCRM.ADMIN\\Views\\HeroSection\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T05:09:41.011Z",
+              "WhenOpened": "2025-03-05T08:08:18.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppStart.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\CustomConfig\\AppStart.cs",
-              "RelativeDocumentMoniker": "WCRM\\CustomConfig\\AppStart.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\CustomConfig\\AppStart.cs",
-              "RelativeToolTip": "WCRM\\CustomConfig\\AppStart.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:01:02.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WCRM\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WCRM\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\HeroSection\\Index.cshtml",
+              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\HeroSection\\Index.cshtml",
+              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\HeroSection\\Index.cshtml",
+              "RelativeToolTip": "WCRM.ADMIN\\Views\\HeroSection\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T04:59:38.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T10:03:58.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProjectModel.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\AdminPanel\\ProjectModel.cs",
-              "RelativeDocumentMoniker": "WCRM.MODEL\\AdminPanel\\ProjectModel.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\AdminPanel\\ProjectModel.cs",
-              "RelativeToolTip": "WCRM.MODEL\\AdminPanel\\ProjectModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:24:17.766Z"
+              "WhenOpened": "2025-03-05T08:02:27.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Project_DataAccess.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\AdminPanel\\Project_DataAccess.cs",
-              "RelativeDocumentMoniker": "WCRM.DataAccess\\AdminPanel\\Project_DataAccess.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\AdminPanel\\Project_DataAccess.cs",
-              "RelativeToolTip": "WCRM.DataAccess\\AdminPanel\\Project_DataAccess.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAowK4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:26:29.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "WCRM.ADMIN\\Controllers\\PortfolioController.cs",
               "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "WCRM.ADMIN\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAxwB4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:43:52.598Z"
+              "WhenOpened": "2025-03-05T07:55:48.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Portfolio\\Create.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Portfolio\\Create.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Portfolio\\Create.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Portfolio\\Create.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T11:47:17.799Z"
+              "DocumentIndex": 2,
+              "Title": "HeroSectionController.cs",
+              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\HeroSectionController.cs",
+              "RelativeDocumentMoniker": "WCRM.ADMIN\\Controllers\\HeroSectionController.cs",
+              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\HeroSectionController.cs",
+              "RelativeToolTip": "WCRM.ADMIN\\Controllers\\HeroSectionController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:55:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroSectionModel.cs",
+              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\AdminPanel\\HeroSectionModel.cs",
+              "RelativeDocumentMoniker": "WCRM.MODEL\\AdminPanel\\HeroSectionModel.cs",
+              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.MODEL\\AdminPanel\\HeroSectionModel.cs",
+              "RelativeToolTip": "WCRM.MODEL\\AdminPanel\\HeroSectionModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:10:48.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Portfolio\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Portfolio\\Edit.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Portfolio\\Edit.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Portfolio\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T04:01:02.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Portfolio\\Index.cshtml",
               "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Portfolio\\Index.cshtml",
               "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Portfolio\\Index.cshtml",
               "RelativeToolTip": "WCRM.ADMIN\\Views\\Portfolio\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T11:46:34.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T10:21:40.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WCRM.ADMIN\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwDQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T07:09:37.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T07:19:49.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T10:23:48.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\appsettings.json",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\appsettings.json",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\appsettings.json",
-              "RelativeToolTip": "WCRM.ADMIN\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-24T09:49:16.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WCRM.ADMIN\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:05:24.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Program.cs",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Program.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Program.cs",
-              "RelativeToolTip": "WCRM.ADMIN\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T09:57:05.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T07:10:47.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DBConnection.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\SHARED\\DBConnection.cs",
-              "RelativeDocumentMoniker": "WCRM.DataAccess\\SHARED\\DBConnection.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\SHARED\\DBConnection.cs",
-              "RelativeToolTip": "WCRM.DataAccess\\SHARED\\DBConnection.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:33:06.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "User_DataAccess.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\AdminPanel\\User_DataAccess.cs",
-              "RelativeDocumentMoniker": "WCRM.DataAccess\\AdminPanel\\User_DataAccess.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.DataAccess\\AdminPanel\\User_DataAccess.cs",
-              "RelativeToolTip": "WCRM.DataAccess\\AdminPanel\\User_DataAccess.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:36:27.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "admin.css",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\wwwroot\\css\\admin.css",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\wwwroot\\css\\admin.css",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\wwwroot\\css\\admin.css",
-              "RelativeToolTip": "WCRM.ADMIN\\wwwroot\\css\\admin.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T10:58:29.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WCRM.ADMIN\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:33:25.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "User_Service.cs",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.SERVICESS\\AdminPanel\\User_Service.cs",
-              "RelativeDocumentMoniker": "WCRM.SERVICESS\\AdminPanel\\User_Service.cs",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.SERVICESS\\AdminPanel\\User_Service.cs",
-              "RelativeToolTip": "WCRM.SERVICESS\\AdminPanel\\User_Service.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:03:49.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WCRM.ADMIN\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM.ADMIN\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WCRM.ADMIN\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T10:10:31.216Z"
+              "WhenOpened": "2025-03-05T07:53:12.767Z",
+              "EditorCaption": ""
             }
           ]
         }
