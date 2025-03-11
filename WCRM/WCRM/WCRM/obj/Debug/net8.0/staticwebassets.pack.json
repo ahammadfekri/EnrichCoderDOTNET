@@ -1,591 +1,591 @@
 {
   "Files": [
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WCRM.bundle.scp.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WCRM.bundle.scp.css",
       "PackagePath": "staticwebassets\\WCRM.bb4w8apa0x.bundle.scp.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets.zip",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets.zip",
       "PackagePath": "staticwebassets\\assets.zip"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\css\\style.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\Software-Product-Development.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\Software-Product-Development.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Software-Product-Development.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\about.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\about.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\carousel-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-10.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-10.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-10.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-3.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-3.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-4.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-4.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-5.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-5.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-5.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-6.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-6.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-6.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-7.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-7.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-7.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-8.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-8.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-8.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-9.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\icon\\icon-9.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\icon-9.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\project-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-2.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\project-2.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\project-3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-4.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\project-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\project-4.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-2.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-4.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\js\\main.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\css\\lightbox.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\css\\lightbox.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\close.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\close.png",
       "PackagePath": "staticwebassets\\assets\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\loading.gif",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\loading.gif",
       "PackagePath": "staticwebassets\\assets\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\next.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\next.png",
       "PackagePath": "staticwebassets\\assets\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\prev.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\images\\prev.png",
       "PackagePath": "staticwebassets\\assets\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\js\\lightbox.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\lightbox\\js\\lightbox.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\assets\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\favicon.ico",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\hero-bg.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\image1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\image1.png",
       "PackagePath": "staticwebassets\\images\\image1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\image2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\image2.png",
       "PackagePath": "staticwebassets\\images\\image2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\image3.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\image3.png",
       "PackagePath": "staticwebassets\\images\\image3.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\logo.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\js\\site.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\034c0ec1-9301-4c14-9951-24b1db38b230_project-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\034c0ec1-9301-4c14-9951-24b1db38b230_project-1.jpg",
       "PackagePath": "staticwebassets\\uploads\\034c0ec1-9301-4c14-9951-24b1db38b230_project-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\073ffa6c-557d-4428-93ce-399095517dfa_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\14730575-eaf3-4763-bfe4-154f993ad8cd_image1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\14730575-eaf3-4763-bfe4-154f993ad8cd_image1.png",
       "PackagePath": "staticwebassets\\uploads\\14730575-eaf3-4763-bfe4-154f993ad8cd_image1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\1535d849-24da-4f67-8ba1-9a44692a3180_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\17eafc30-84c3-4fcf-8527-772a6898daa0_image3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\17eafc30-84c3-4fcf-8527-772a6898daa0_image3.jpg",
       "PackagePath": "staticwebassets\\uploads\\17eafc30-84c3-4fcf-8527-772a6898daa0_image3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\18d6641e-30cd-42ec-902d-39182a11b974_project-3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\18d6641e-30cd-42ec-902d-39182a11b974_project-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\18d6641e-30cd-42ec-902d-39182a11b974_project-3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\244f7ba1-9a4b-439d-ba80-21a620dd0461_carousel-2.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\244f7ba1-9a4b-439d-ba80-21a620dd0461_carousel-2.jpg",
       "PackagePath": "staticwebassets\\uploads\\244f7ba1-9a4b-439d-ba80-21a620dd0461_carousel-2.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\2e99a341-235d-49c7-bf6e-fe523e4a558a_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\2ecf2d55-be69-4996-a6c0-da1de49731a0_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\37c6762d-3c0d-4fbe-86e1-f02b1cb36482_project-4.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\37c6762d-3c0d-4fbe-86e1-f02b1cb36482_project-4.jpg",
       "PackagePath": "staticwebassets\\uploads\\37c6762d-3c0d-4fbe-86e1-f02b1cb36482_project-4.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\4294a6b8-bcb1-4d78-b9ca-1010094f984c_image2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\4294a6b8-bcb1-4d78-b9ca-1010094f984c_image2.png",
       "PackagePath": "staticwebassets\\uploads\\4294a6b8-bcb1-4d78-b9ca-1010094f984c_image2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\46590653-a532-4376-b3cf-0ec9f7f1eeb0_carousel-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\46590653-a532-4376-b3cf-0ec9f7f1eeb0_carousel-1.jpg",
       "PackagePath": "staticwebassets\\uploads\\46590653-a532-4376-b3cf-0ec9f7f1eeb0_carousel-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\4d78e8db-bc15-4ef9-85c1-32e313efc96a_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\4e55af2c-18eb-4a35-bb77-3b9745a79a94_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\552e8366-7d69-4e45-aead-b81bbedfd1a3_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\5b6728c5-adcb-4b3d-8550-6939d73f12c2_icon-2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\5b6728c5-adcb-4b3d-8550-6939d73f12c2_icon-2.png",
       "PackagePath": "staticwebassets\\uploads\\5b6728c5-adcb-4b3d-8550-6939d73f12c2_icon-2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\669ce167-486c-4f6b-9bc2-c852bd20e9da_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\6f8ab54d-b66e-4d24-953f-7153b6ce802a_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\6fe6c176-d8ec-42b3-bd26-6d611397a3b6_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\8ecf77af-3290-4468-853e-a07d2a4b4a1e_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\9431ea5b-173b-4eeb-982c-8822d01c385e_carousel-3.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\9431ea5b-173b-4eeb-982c-8822d01c385e_carousel-3.jpg",
       "PackagePath": "staticwebassets\\uploads\\9431ea5b-173b-4eeb-982c-8822d01c385e_carousel-3.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\976c7652-ae97-42fc-94e4-227d87b9ef98_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\99b5f8d7-e41c-45b6-b95c-b0f94120a639_icon-2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\99b5f8d7-e41c-45b6-b95c-b0f94120a639_icon-2.png",
       "PackagePath": "staticwebassets\\uploads\\99b5f8d7-e41c-45b6-b95c-b0f94120a639_icon-2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\9a1f1ca5-a782-4a0f-a273-f0d056a52c43_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a0603f02-e4b9-4d08-b161-84a75acfe65e_icon-2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a0603f02-e4b9-4d08-b161-84a75acfe65e_icon-2.png",
       "PackagePath": "staticwebassets\\uploads\\a0603f02-e4b9-4d08-b161-84a75acfe65e_icon-2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\a59cc172-ba4e-4505-bc56-eef8e37c3496_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a627595a-a2fd-4013-be80-1653f346a187_image2.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a627595a-a2fd-4013-be80-1653f346a187_image2.jpg",
       "PackagePath": "staticwebassets\\uploads\\a627595a-a2fd-4013-be80-1653f346a187_image2.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a653163c-2dd0-471b-bb29-2f7706136a17_h6.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\a653163c-2dd0-471b-bb29-2f7706136a17_h6.jpg",
       "PackagePath": "staticwebassets\\uploads\\a653163c-2dd0-471b-bb29-2f7706136a17_h6.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg",
       "PackagePath": "staticwebassets\\uploads\\ae9b1be9-e18f-4f9d-803c-7f60b11048bf_telecommunications-towers-against-cloudy-sky.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\b2124635-ab43-4c49-a0ca-e3bc060e29be_icon-1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\b2124635-ab43-4c49-a0ca-e3bc060e29be_icon-1.png",
       "PackagePath": "staticwebassets\\uploads\\b2124635-ab43-4c49-a0ca-e3bc060e29be_icon-1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\b2e23cdf-da50-458a-ac3b-f350c09c6c18_hero-bg.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\b2e23cdf-da50-458a-ac3b-f350c09c6c18_hero-bg.jpg",
       "PackagePath": "staticwebassets\\uploads\\b2e23cdf-da50-458a-ac3b-f350c09c6c18_hero-bg.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\d04e022a-de78-4b07-bdfb-be90189de57a_carousel-1.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\d04e022a-de78-4b07-bdfb-be90189de57a_carousel-1.jpg",
       "PackagePath": "staticwebassets\\uploads\\d04e022a-de78-4b07-bdfb-be90189de57a_carousel-1.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\d4b8c134-704c-40d5-9092-85424470148b_icon-1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\d4b8c134-704c-40d5-9092-85424470148b_icon-1.png",
       "PackagePath": "staticwebassets\\uploads\\d4b8c134-704c-40d5-9092-85424470148b_icon-1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\d562f00b-b60a-46b4-9efd-16a8e6e21a61_icon-1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\d562f00b-b60a-46b4-9efd-16a8e6e21a61_icon-1.png",
       "PackagePath": "staticwebassets\\uploads\\d562f00b-b60a-46b4-9efd-16a8e6e21a61_icon-1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\e444cdd0-ba28-4e8b-ad71-a5f4817143a4_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\efa95859-69a3-4fcd-9df6-c336896ab4a6_icon-1.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\efa95859-69a3-4fcd-9df6-c336896ab4a6_icon-1.png",
       "PackagePath": "staticwebassets\\uploads\\efa95859-69a3-4fcd-9df6-c336896ab4a6_icon-1.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\fa2e8fa4-e78a-4006-b73c-6f8c03ec3acd_icon-2.png",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\fa2e8fa4-e78a-4006-b73c-6f8c03ec3acd_icon-2.png",
       "PackagePath": "staticwebassets\\uploads\\fa2e8fa4-e78a-4006-b73c-6f8c03ec3acd_icon-2.png"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\fa57646a-3b54-406d-8197-9d77f480977d_young-man-engineer-making-program-analyses.jpg"
     },
     {
-      "Id": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg",
+      "Id": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM\\wwwroot\\uploads\\fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg",
       "PackagePath": "staticwebassets\\uploads\\fb555f93-7d41-49d8-9f48-c55f0d3c95ab_young-man-engineer-making-program-analyses.jpg"
     },
     {

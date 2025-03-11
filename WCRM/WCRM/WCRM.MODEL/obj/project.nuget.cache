@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qGp9tL7d2h8=",
+  "dgSpecHash": "T8xzK7Yd9Vo=",
   "success": true,
-  "projectFilePath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj",
+  "projectFilePath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
-    "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
-    "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }

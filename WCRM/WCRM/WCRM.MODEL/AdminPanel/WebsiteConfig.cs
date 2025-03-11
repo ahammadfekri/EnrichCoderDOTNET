@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace WCRM.ADMIN.Models
+namespace WCRM.MODEL.AdminPanel
 {
     public class WebsiteConfig
     {

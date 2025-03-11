@@ -17,77 +17,77 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WCRM
 build_property.RootNamespace = WCRM
-build_property.ProjectDir = D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM\
+build_property.ProjectDir = E:\Fekri Vai\EnrichCoderDOTNET\WCRM\WCRM\WCRM\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM
+build_property.MSBuildProjectDirectory = E:\Fekri Vai\EnrichCoderDOTNET\WCRM\WCRM\WCRM
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Clients.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Clients.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGllbnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Company.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Company.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wYW55LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Contact.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Index.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Industries.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Industries.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmR1c3RyaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_footer.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsXF9mb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_HeroSection.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_HeroSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsXF9IZXJvU2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_navbar.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsXF9uYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_topbar.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Partial/_topbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsXF90b3BiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Privacy.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Services.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Technology.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Home/Technology.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWNobm9sb2d5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/Error.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/_ViewImports.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fekri/Projects/Git Project/Enrich Coder Website DOT NET/WCRM/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/_Layout.cshtml]
+[E:/Fekri Vai/EnrichCoderDOTNET/WCRM/WCRM/WCRM/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qe3v31mwl8

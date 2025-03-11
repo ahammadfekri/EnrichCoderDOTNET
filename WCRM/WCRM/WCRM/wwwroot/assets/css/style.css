@@ -1076,3 +1076,20 @@ a {
     a:hover {
         text-decoration: underline;
     }
+.explained {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.explained-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.add-z-index {
+    position: relative;
+    z-index: 2;
+}

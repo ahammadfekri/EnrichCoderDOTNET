@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WCRM.ADMIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb404b284ddbf31b264f6c8908c81bef83fb0212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04effbca5cd38113be7f54da81972595495c1779")]
 [assembly: System.Reflection.AssemblyProductAttribute("WCRM.ADMIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WCRM.ADMIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
