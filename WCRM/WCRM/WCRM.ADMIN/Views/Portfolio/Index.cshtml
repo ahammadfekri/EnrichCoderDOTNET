@@ -1,0 +1,49 @@
+﻿@model List<WCRM.MODEL.AdminPanel.ProjectModel>
+
+@{
+    ViewData["Title"] = "Manage Portfolio";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Portfolio Management</h2>
+<a asp-action="Create" class="btn btn-success">Add New Project</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var project in Model)
+        {
+            <tr>
+                <td>@project.Title</td>
+                <td>@Html.Raw(project.Description)</td> <!-- Display formatted content -->
+                <td>
+                    @if (!string.IsNullOrEmpty(project.ImageUrl))
+                    {
+                        <img src="@project.ImageUrl" alt="Project Image" width="100" />
+                    }
+                </td>
+                <td>
+                    <span class="badge @(project.Status == "Published" ? "bg-success" : "bg-warning")">
+                        @project.Status
+                    </span>
+                </td>
+                <td class="d-flex justify-content-start">
+                    <a asp-action="Edit" asp-route-id="@project.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this project?');">
+                        <input type="hidden" name="id" value="@project.Id" />
+                        <!-- Add btn-sm to make the button smaller -->
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr> 
+        }
+    </tbody>
+</table>

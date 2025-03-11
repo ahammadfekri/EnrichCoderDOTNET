@@ -1,0 +1,119 @@
+﻿@model WCRM.MODEL.AdminPanel.Service
+@{
+    ViewData["Title"] = "Create Service";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Create New Service</h2>
+
+<!-- Create Form -->
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+
+    <div class="card">
+        <div class="card-body">
+            <ul class="nav nav-tabs" id="portfolioTabs">
+                <li class="nav-item">
+                    <a class="nav-link active" id="general-tab" data-bs-toggle="tab" href="#general">Service Info</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="seo-tab" data-bs-toggle="tab" href="#seo">SEO Info</a>
+                </li>
+            </ul>
+
+            <div class="tab-content mt-3">
+                <!-- General Info Tab -->
+                <div class="tab-pane fade show active" id="general">
+                    <div class="row mb-3">
+                        <label asp-for="Name" class="col-sm-3 col-form-label text-end"></label> <!-- Changed col-sm-2 to col-sm-3 -->
+                        <div class="col-sm-9">
+                            <input asp-for="Name" class="form-control" required />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label asp-for="Description" class="col-sm-3 col-form-label text-end"></label>
+                        <div class="col-sm-9">
+                            <textarea asp-for="Description" class="form-control" id="editor"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label asp-for="ImageFile" class="col-sm-3 col-form-label text-end">Project Image</label>
+                        <div class="col-sm-9">
+                            <input type="file" asp-for="ImageFile" class="form-control" accept="image/*" required />
+                            <span asp-validation-for="ImageFile" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label asp-for="Status" class="col-sm-3 col-form-label text-end"></label>
+                        <div class="col-sm-9">
+                            <select asp-for="Status" class="form-control">
+                                <option value="Published">Published</option>
+                                <option value="Unpublished">Unpublished</option>
+                            </select>
+                            <span asp-validation-for="Status" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- SEO Info Tab -->
+                <div class="tab-content mt-3">
+
+                    <!-- SEO Info Tab -->
+                    <!-- SEO Info Tab -->
+                    <div class="tab-pane fade" id="seo">
+                        <div class="row mb-3">
+                            <label asp-for="SEO_Title" class="col-sm-4 col-form-label text-end text-nowrap">SEO Title</label>
+                            <div class="col-sm-8">
+                                <input asp-for="SEO_Title" class="form-control" placeholder="Enter SEO title" />
+                                <span asp-validation-for="SEO_Title" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <label asp-for="SEO_Description" class="col-sm-4 col-form-label text-end text-nowrap">SEO Description</label>
+                            <div class="col-sm-8">
+                                <textarea asp-for="SEO_Description" class="form-control" placeholder="Enter SEO description"></textarea>
+                                <span asp-validation-for="SEO_Description" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <label asp-for="SEO_Keywords" class="col-sm-4 col-form-label text-end text-nowrap">SEO Keywords</label>
+                            <div class="col-sm-8">
+                                <input asp-for="SEO_Keywords" class="form-control" placeholder="Enter SEO keywords (comma separated)" />
+                                <span asp-validation-for="SEO_Keywords" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Submit & Cancel Buttons -->
+            <div class="row mb-3">
+                <div class="col-sm-10 offset-sm-2">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="https://cdn.ckeditor.com/4.25.1/standard/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace('editor', {
+            height: 300,
+            extraPlugins: 'autogrow',
+            autoGrow_minHeight: 200,
+            autoGrow_maxHeight: 600,
+            removePlugins: 'resize'
+        });
+    </script>
+}

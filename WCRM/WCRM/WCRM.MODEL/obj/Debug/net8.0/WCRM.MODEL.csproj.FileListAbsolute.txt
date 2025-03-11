@@ -1,0 +1,156 @@
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\Desktop\12-02-2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+D:\Fekri\Projects\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+D:\Fekri\Projects\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Enrich Coder Website DOT NET\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.sourcelink.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.sourcelink.json
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+E:\Fekri Vai\WebLink\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Website DOT NET\From Sakib\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_08_03_2025\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+E:\Fekri Vai\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Enrich Coder Main\WCRM_10_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+E:\Fekri Vai\WCRM10_010_03\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+C:\Users\Ahammad Fekri\OneDrive\Official\Bangladesh\Weblink\Git Project\Source Backup-02-03-2025\WCRM2025-03-11\WCRM2025-03-11\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.deps.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\bin\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.AssemblyReference.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfoInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.AssemblyInfo.cs
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.csproj.CoreCompileInputs.cache
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.sourcelink.json
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\refint\WCRM.MODEL.dll
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\WCRM.MODEL.pdb
+D:\Fekri\Projects\Git Project\Enrich Coder Website DOT NET\WCRM\EnrichCoderDOTNET\WCRM\WCRM\WCRM.MODEL\obj\Debug\net8.0\ref\WCRM.MODEL.dll

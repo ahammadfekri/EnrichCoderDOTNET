@@ -1,0 +1,51 @@
+﻿@using WCRM.MODEL.AdminPanel
+@model List<WebsiteConfig>
+
+@{
+    ViewData["Title"] = "Website Settings";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Website Settings</h1>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="card p-4">
+            <h3>@Model.First().Title</h3>
+            <p><strong>Description:</strong> @Model.First().Description</p>
+            <p><strong>Last Updated:</strong> @Model.First().CreatedAt.ToString("MMMM dd, yyyy")</p>
+
+            @if (!string.IsNullOrEmpty(Model.First().logo))
+            {
+                <img src="@Model.First().logo" alt="Website Logo" class="img-fluid" style="max-width: 150px;">
+            }
+        </div>
+
+        <div class="mt-4">
+            <h3>Social Media Links</h3>
+            <ul class="list-group">
+                @if (!string.IsNullOrEmpty(Model.First().Facebook))
+                {
+                    <li class="list-group-item"><strong>Facebook:</strong> <a href="@Model.First().Facebook" target="_blank">@Model.First().Facebook</a></li>
+                }
+                @if (!string.IsNullOrEmpty(Model.First().Twitter))
+                {
+                    <li class="list-group-item"><strong>Twitter:</strong> <a href="@Model.First().Twitter" target="_blank">@Model.First().Twitter</a></li>
+                }
+                @if (!string.IsNullOrEmpty(Model.First().LinkedIn))
+                {
+                    <li class="list-group-item"><strong>LinkedIn:</strong> <a href="@Model.First().LinkedIn" target="_blank">@Model.First().LinkedIn</a></li>
+                }
+                @if (!string.IsNullOrEmpty(Model.First().YouTube))
+                {
+                    <li class="list-group-item"><strong>YouTube:</strong> <a href="@Model.First().YouTube" target="_blank">@Model.First().YouTube</a></li>
+                }
+            </ul>
+        </div>
+    }
+    else
+    {
+        <p class="text-center">No website settings found.</p>
+    }
+</div>

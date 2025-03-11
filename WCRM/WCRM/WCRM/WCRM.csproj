@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\ACCOUNTS\**" />
+    <Compile Remove="Controllers\HRMS\**" />
+    <Compile Remove="Views\ACCOUNTS\**" />
+    <Compile Remove="Views\HRMS\**" />
+    <Compile Remove="wwwroot\css\**" />
+    <Content Remove="Controllers\ACCOUNTS\**" />
+    <Content Remove="Controllers\HRMS\**" />
+    <Content Remove="Views\ACCOUNTS\**" />
+    <Content Remove="Views\HRMS\**" />
+    <Content Remove="wwwroot\css\**" />
+    <EmbeddedResource Remove="Controllers\ACCOUNTS\**" />
+    <EmbeddedResource Remove="Controllers\HRMS\**" />
+    <EmbeddedResource Remove="Views\ACCOUNTS\**" />
+    <EmbeddedResource Remove="Views\HRMS\**" />
+    <EmbeddedResource Remove="wwwroot\css\**" />
+    <None Remove="Controllers\ACCOUNTS\**" />
+    <None Remove="Controllers\HRMS\**" />
+    <None Remove="Views\ACCOUNTS\**" />
+    <None Remove="Views\HRMS\**" />
+    <None Remove="wwwroot\css\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WCRM.DataAccess\WCRM.DataAccess.csproj" />
+    <ProjectReference Include="..\WCRM.MODEL\WCRM.MODEL.csproj" />
+    <ProjectReference Include="..\WCRM.SERVICESS\WCRM.SERVICESS.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+</Project>

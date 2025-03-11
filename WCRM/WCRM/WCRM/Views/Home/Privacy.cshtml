@@ -1,0 +1,29 @@
+﻿@using WCRM.MODEL.AdminPanel
+@model List<Privacy>
+@{
+    ViewData["Title"] = "Weblink Communication Ltd";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="privacy-container">
+    <h1>Privacy Policy</h1>
+
+    @if (Model != null && Model.Any())  // Check if the list is not empty
+    {
+        <p class="updated-date">Last updated: @Model.First().CreatedAt</p>
+
+        @foreach (var privacy in Model)
+        {
+            <section>
+                <h2>@privacy.Name</h2>
+                <p>@privacy.Description</p>
+            </section>
+        }
+    }
+    else
+    {
+        <p>No privacy policy available.</p>
+    }
+</div>
+    
+

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WCRM\\WCRM.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WCRM.ADMIN\\WCRM.ADMIN.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

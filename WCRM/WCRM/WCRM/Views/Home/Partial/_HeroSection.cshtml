@@ -1,0 +1,289 @@
+﻿@using WCRM.ViewModel
+@model HomeViewModel
+<!-- Spinner Start -->
+@*  <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
+    </div> *@
+<!-- Spinner End -->
+<div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <!-- Slide 1 -->
+       @*  @foreach (var sliders in Model.sliders) *@
+        @for (int i = 0; i < Model.sliders.Count; i++)
+        {
+            var sliders = Model.sliders[i];
+            <div class="carousel-item @(i == 0 ? "active" : "")">
+                <div class="hero-slide" style="background-image: url('@sliders.SliderImage');">@*  style="background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');"> *@
+                    <div class="hero-overlay"></div>
+                    <div class="hero-inner mx-auto">
+                        @* <span class="hero-sub-title">Ideas. Solutions. Engineering.</span>
+                        <h1>Bringing Awesome Ideas to Life!</h1> *@
+                        <span class="hero-sub-title">@sliders.Title</span>
+                        <h1>@sliders.Description</h1>
+                         <a href="#" class="default-btn white-btn btn-arrow">Let’s Talk</a>
+                    </div>
+                </div>
+            </div> 
+            }
+
+           @*  <!-- Slide 2 -->
+            <div class="carousel-item active">
+                <div class="hero-slide" style="background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');">
+                    <div class="hero-overlay"></div>
+                    <div class="hero-inner mx-auto">
+                        <span class="hero-sub-title">innovation. technology. future.</span>
+                        <h1>transforming visions into reality</h1>
+                        <a href="#" class="default-btn white-btn btn-arrow">get started</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- slide 3 -->
+            <div class="carousel-item">
+                <div class="hero-slide" style="background-image: url('https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');">
+                <div class="hero-overlay"></div>
+                <div class="hero-inner mx-auto">
+                    <span class="hero-sub-title">design. development. success.</span>
+                    <h1>crafting digital excellence</h1>
+                    <a href="#" class="default-btn white-btn btn-arrow">contact us</a>
+                </div>
+            </div> *@
+        </div>
+
+    </div>
+
+    @*  <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button> *@
+
+   @*  <div class="carousel-indicators">
+        <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div> *@
+<!-- Company Start -->
+<div class="container-xxl py-2">
+    <div class="container">
+        <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">           
+            <h1 class="display-5 mb-5">Enrich Coder Explained in 60 Seconds</h1>
+        </div>
+        <div class="row g-4">
+            @* @foreach (var service in Model.Services)
+            {
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item position-relative h-100">
+                        <div class="service-text rounded p-5 bg-light shadow-lg h-100">
+                            <div class="d-flex align-items-center mb-3">
+                                <div class="me-3">
+                                    <img src="@service.Icon" alt="@service.Name" style="width: 48px; height: 48px; filter: invert(1);">
+                                </div>
+                                <div class="flex-grow-1 d-flex justify-content-center">
+                                    <h5 class="text-primary m-0">@service.Name</h5>
+                                </div>
+                            </div>
+                            <p class="mb-0 text-secondary service-description">@service.Description</p>
+                        </div>
+                    </div>
+                </div>
+            } *@
+            <p>
+                Enrich Coder is a top-tier Software Development Company in the USA, with vast experience in providing all-inclusive software development services to onshore and offshore businesses. Our tech-savvy experts have considerable experience in software development, quality assurance, testing, and more. We believe in open-ended communication with our clients and keep them involved in the entire software development lifecycle.
+            </p>
+        </div>
+        <div class="row g-4">
+            
+        </div>
+    </div>
+</div>
+<!-- Company End -->
+<!-- Video Modal Start -->
+<div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">Youtube Video</h3>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- 16:9 aspect ratio -->
+                <div class="ratio ratio-16x9">
+                    <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always" allow="autoplay"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Video Modal End -->
+
+
+<!-- Service Start -->
+<div class="container-xxl py-2">
+    <div class="container">
+        <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+            <p class="fs-5 fw-medium text-primary">Our Services</p>
+            <h1 class="display-5 mb-5">Services that We Offer</h1>
+        </div>
+        <div class="row g-4">
+            @foreach (var service in Model.Services)
+            {
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item position-relative h-100">
+                        <div class="service-text rounded p-5 bg-light shadow-lg h-100">
+                            <div class="d-flex align-items-center mb-3">
+                                <div class="me-3">
+                                    <img src="@service.Icon" alt="@service.Name" style="width: 48px; height: 48px; filter: invert(1);">
+                                </div>
+                                <div class="flex-grow-1 d-flex justify-content-center">
+                                    <h5 class="text-primary m-0">@service.Name</h5>
+                                </div>
+                            </div>
+                            <p class="mb-0 text-secondary service-description">@service.Description</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- Service End -->
+
+
+<!-- Product Start -->
+<div class="container-xxl pt-5">
+    <div class="container">
+        <!-- <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px; text-align: center;">
+        <p class="fs-5 fw-medium text-primary">Our Products</p>
+        <h1 class="display-5 mb-5">We've Done Lot's of Awesome Products</h1>
+        </div> -->
+        <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+            <p class="fs-5 fw-medium text-primary">Our Products</p>
+            <h1 class="display-5 mb-5">We've Done Lot's of Awesome Products</h1>
+        </div>
+        <div class="wow fadeInUp" data-wow-delay="0.1s">
+            <div class="row g-4">
+                @foreach (var product in Model.Products)
+                {
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card h-100 border-0 shadow-lg creative-card">
+                            <div class="card-body d-flex flex-column p-4 position-relative overflow-hidden">
+
+                                <div class="creative-bg-circle"></div>
+
+                                <div class="mb-4 position-relative z-1">
+                                    <h5 class="card-title mb-0 fw-bold creative-title">
+                                        <span class="title-text">@product.Name</span>
+                                        <span class="title-glow"></span>
+                                        <span class="title-highlight"></span>
+                                    </h5>
+                                    <div class="title-flow-line mt-2"></div>
+                                </div>
+
+                                <div class="description-wrapper flex-grow-1 position-relative z-1">
+                                    <p class="card-text creative-text">@product.Description</p>
+                                    <div class="black-shade-effect"></div>
+                                </div>
+                            </div>
+
+                            <div class="card-footer bg-transparent border-0 pb-4 px-4 text-center">
+                                <a href="#" class="btn btn-primary btn-creative w-50">View Details</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            </div>
+        </div>
+    </div>
+    <!-- Product End -->
+
+
+    <!-- Quote Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <p class="fs-5 fw-medium text-primary">Get A Quote</p>
+                    <h1 class="display-5 mb-4">Need Our Expert Help? We're Here!</h1>
+                  @*   <p>{{ $websiteSettings->about_us }}</p> *@
+                    <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
+                        <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
+                            <i class="fa fa-phone-alt text-white"></i>
+                        </span>
+                        <span class="fs-5 fw-medium mx-4">phone</span>
+                    </a>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <h2 class="mb-4">Get A Free Quote</h2>
+                    <form method="post" action="#">
+                        
+
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name">
+                                    <label for="name">Your Name</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Your Email">
+                                    <label for="email">Your Email</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" name="phone" class="form-control" id="phone" placeholder="Your phone">
+                                    <label for="phone">Your phone</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subject">
+                                    <label for="subject">Subject</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 200px"></textarea>
+                                    <label for="message">Message</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-primary rounded-pill py-3 px-5" type="submit">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Quote Start -->
+
+
+    <!-- Client Start -->
+    <div class="container-xxl pt-5">
+        <div class="container">
+            <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <p class="fs-5 fw-medium text-primary">Our Valuable Clients</p>
+            </div>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            @foreach (var sliders in Model.sliders)
+                {
+                    <div class="testimonial-item rounded p-4 p-lg-4 mb-5">
+                   
+                        <img class="mb-3" src="@sliders.SliderImage" alt="">
+                    <h5>@sliders.Title</h5>
+                    </div>
+              }
+            </div>
+        </div>
+    </div>
+    <!-- Client End -->
+
+
+ 

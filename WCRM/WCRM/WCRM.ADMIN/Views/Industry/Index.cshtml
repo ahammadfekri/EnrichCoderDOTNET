@@ -1,0 +1,49 @@
+﻿@model List<WCRM.MODEL.AdminPanel.Industry>
+
+@{
+    ViewData["Title"] = "Manage Industry";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Industry Management</h2>
+<a asp-action="Create" class="btn btn-success">Add New Industry</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var industry in Model)
+        {
+            <tr>
+                <td>@industry.Name</td>
+                <td>@Html.Raw(industry.Description)</td> <!-- Display formatted content -->
+                <td>
+                    @if (!string.IsNullOrEmpty(industry.Icon))
+                    {
+                        <img src="@industry.Icon" alt="Project Image" width="100" />
+                    }
+                </td>
+                <td>
+                    <span class="badge @(industry.Status == "Published" ? "bg-success" : "bg-warning")">
+                        @industry.Status
+                    </span>
+                </td>
+                <td class="d-flex justify-content-start">
+                    <a asp-action="Edit" asp-route-id="@industry.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this project?');">
+                        <input type="hidden" name="id" value="@industry.Id" />
+                        <!-- Add btn-sm to make the button smaller -->
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

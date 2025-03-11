@@ -1,0 +1,162 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using WCRM.ADMIN.Models;
+using WCRM.DataAccess.AdminPanel;
+using WCRM.MODEL.AdminPanel;
+
+namespace WCRM.ADMIN.Controllers
+{
+    public class SliderController : Controller
+    {
+        private readonly Slider_DataAccess _dbHelper;
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public SliderController(Slider_DataAccess dbHelper, IWebHostEnvironment webHostEnvironment)
+        {
+            _dbHelper = dbHelper;
+            _webHostEnvironment = webHostEnvironment;
+        }
+        // GET: /Slider/
+        public IActionResult Index()
+        {
+            List<Slider> sliders = _dbHelper.GetAllSliders();
+            return View(sliders);
+        }
+
+        // GET: /Slider/Create
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Create(Slider model, IFormFile ImageFile)
+        {
+            if (ImageFile != null && ImageFile.Length > 0)
+            {
+                // ✅ Path to WCRM Frontend's wwwroot/uploads using relative path
+                string frontendUploadsFolder = Path.GetFullPath(
+                    Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "WCRM", "WCRM", "wwwroot", "uploads")
+                );
+
+                // ✅ Path to WCRM.ADMIN's wwwroot/uploads
+                string adminUploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+
+                // ✅ Ensure both folders exist
+                if (!Directory.Exists(frontendUploadsFolder))
+                    Directory.CreateDirectory(frontendUploadsFolder);
+
+                if (!Directory.Exists(adminUploadsFolder))
+                    Directory.CreateDirectory(adminUploadsFolder);
+
+                // ✅ Generate unique filename
+                string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(ImageFile.FileName);
+
+                // ✅ File paths
+                string frontendFilePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
+                string adminFilePath = Path.Combine(adminUploadsFolder, uniqueFileName);
+
+                // ✅ Save file to frontend (WCRM)
+                using (var stream = new FileStream(frontendFilePath, FileMode.Create))
+                {
+                    ImageFile.CopyTo(stream);
+                }
+
+                // ✅ Copy file to Admin (WCRM.ADMIN)
+                System.IO.File.Copy(frontendFilePath, adminFilePath, true); // Overwrite if exists
+
+                // ✅ Store relative path for frontend usage
+                model.SliderImage = "/uploads/" + uniqueFileName;
+                model.Status = model.Status ?? "Unpublished";
+            }
+
+            if (model != null)
+            {
+                _dbHelper.AddSlider(model);
+                return RedirectToAction("Index");
+            }
+            return View(model);
+        }
+
+
+        // GET: /Slider/Edit/5
+        public IActionResult Edit(int id)
+        {
+            var slider = _dbHelper.GetSliderById(id);
+            if (slider == null)
+            {
+                return NotFound();
+            }
+            return View(slider);
+        }
+        [HttpPost]
+        public IActionResult Edit(Slider model, IFormFile ImageFile)
+        {
+            // Handle Image Upload
+            if (ImageFile != null && ImageFile.Length > 0)
+            {
+                // ✅ Path to WCRM (frontend) wwwroot/uploads using relative path
+                string frontendUploadsFolder = Path.GetFullPath(
+                    Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "WCRM", "wwwroot", "uploads")
+                );
+
+                // ✅ Create uploads folder if it doesn't exist
+                if (!Directory.Exists(frontendUploadsFolder))
+                {
+                    Directory.CreateDirectory(frontendUploadsFolder);
+                }
+
+                // ✅ Generate unique filename
+                string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(ImageFile.FileName);
+                string filePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
+
+                // ✅ Save the file to WCRM (frontend)
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    ImageFile.CopyTo(stream);
+                }
+
+                // ✅ Ensure rich text is stored properly
+                model.Description = model.Description ?? "";
+
+                // ✅ Set the URL relative path for frontend access
+                model.SliderImage = "/uploads/" + uniqueFileName;
+            }
+            else
+            {
+                // ✅ Keep existing image URL if no new image is uploaded
+                var existingSlider = _dbHelper.GetSliderById(model.Id);
+                model.SliderImage = existingSlider.SliderImage;
+            }
+
+            // ✅ Update in database if model is valid
+            if (model != null)
+            {
+                _dbHelper.UpdateSlider(model);
+                return RedirectToAction("Index");
+            }
+
+            // Return view with model in case of validation issues
+            return View(model);
+        }
+
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            try
+            {
+                // Call data access to delete the project
+                _dbHelper.DeleteSlider(id);
+
+                // Redirect to the Index page after successful deletion
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                // Handle any errors (e.g., project not found)
+                ModelState.AddModelError("", "Error deleting project: " + ex.Message);
+                return RedirectToAction("Index");
+            }
+        }
+    }
+}
