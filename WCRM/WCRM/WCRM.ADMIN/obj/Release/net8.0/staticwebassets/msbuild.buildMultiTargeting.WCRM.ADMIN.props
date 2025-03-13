@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WCRM.ADMIN.props" />
+</Project>

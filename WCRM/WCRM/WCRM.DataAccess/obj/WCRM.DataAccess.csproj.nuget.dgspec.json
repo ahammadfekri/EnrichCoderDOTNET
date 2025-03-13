@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj": {}
+    "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj": {
+    "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj",
+        "projectUniqueName": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj",
         "projectName": "WCRM.DataAccess",
-        "projectPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\obj\\",
+        "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\WCRM.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\",
+        "outputPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahammad Fekri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
-                "projectPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj"
+              "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
+                "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj"
               }
             }
           }
@@ -75,24 +76,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
+    "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj",
+        "projectUniqueName": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj",
         "projectName": "WCRM.MODEL",
-        "projectPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\obj\\",
+        "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj",
+        "packagesPath": "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\",
+        "outputPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahammad Fekri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,6 +102,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -146,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

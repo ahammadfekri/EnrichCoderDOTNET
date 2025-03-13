@@ -6682,23 +6682,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.ADMIN\\WCRM.ADMIN.csproj",
+      "projectUniqueName": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.ADMIN\\WCRM.ADMIN.csproj",
       "projectName": "WCRM.ADMIN",
-      "projectPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.ADMIN\\WCRM.ADMIN.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.ADMIN\\obj\\",
+      "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.ADMIN\\WCRM.ADMIN.csproj",
+      "packagesPath": "C:\\Users\\Ahammad Fekri\\.nuget\\packages\\",
+      "outputPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.ADMIN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahammad Fekri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6707,17 +6707,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
-              "projectPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj"
+            "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj": {
+              "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.MODEL\\WCRM.MODEL.csproj"
             },
-            "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj": {
-              "projectPath": "E:\\Fekri Vai\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj"
+            "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj": {
+              "projectPath": "D:\\Fekri\\Projects\\Git Project\\Enrich Coder Website DOT NET\\WCRM\\EnrichCoderDOTNET\\WCRM\\WCRM\\WCRM.SERVICESS\\WCRM.SERVICESS.csproj"
             }
           }
         }
@@ -6762,7 +6763,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

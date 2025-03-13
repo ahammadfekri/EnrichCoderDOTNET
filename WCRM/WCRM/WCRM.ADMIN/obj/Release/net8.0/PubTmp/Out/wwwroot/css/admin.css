@@ -1,0 +1,16 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+#sidebar-wrapper {
+    width: 250px;
+}
+
+#page-content-wrapper {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.card {
+    text-align: center;
+}
