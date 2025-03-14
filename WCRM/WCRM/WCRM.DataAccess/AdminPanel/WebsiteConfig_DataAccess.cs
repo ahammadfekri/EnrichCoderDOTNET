@@ -10,7 +10,7 @@ using WCRM.MODEL.AdminPanel;
 
 namespace WCRM.DataAccess.AdminPanel
 {
-  
+
     public class WebsiteConfig_DataAccess
     {
 
@@ -39,15 +39,18 @@ namespace WCRM.DataAccess.AdminPanel
                                 configs.Add(new WebsiteConfig
                                 {
                                     Id = reader.GetInt64(reader.GetOrdinal("id")),
-                                    Title = reader.GetString(reader.GetOrdinal("name")),
+                                    Title = reader.IsDBNull(reader.GetOrdinal("name")) ? null : reader.GetString(reader.GetOrdinal("name")),
                                     Description = reader.IsDBNull(reader.GetOrdinal("about_us")) ? "" : reader.GetString(reader.GetOrdinal("about_us")),
                                     logo = reader.IsDBNull(reader.GetOrdinal("logo")) ? null : reader.GetString(reader.GetOrdinal("logo")),
-                                    Status = reader.IsDBNull(reader.GetOrdinal("Status")) ? "N/A" : reader.GetString(reader.GetOrdinal("Status")), // Not in SELECT query, add if needed
+                                    Status = reader.IsDBNull(reader.GetOrdinal("Status")) ? "N/A" : reader.GetString(reader.GetOrdinal("Status")),
+                                    Email = reader.IsDBNull(reader.GetOrdinal("email")) ? "" : reader.GetString(reader.GetOrdinal("email")),
+                                    Phone = reader.IsDBNull(reader.GetOrdinal("phone")) ? "" : reader.GetString(reader.GetOrdinal("phone")),
+                                    Address = reader.IsDBNull(reader.GetOrdinal("address")) ? "" : reader.GetString(reader.GetOrdinal("address")),
+                                    CreatedAt = reader.GetDateTime(reader.GetOrdinal("created_at")),// Not in SELECT query, add if needed
                                     SEO_Title = reader.IsDBNull(reader.GetOrdinal("SEO_Title")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Title")),
                                     SEO_Description = reader.IsDBNull(reader.GetOrdinal("SEO_Description")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Description")),
                                     SEO_Keywords = reader.IsDBNull(reader.GetOrdinal("SEO_Keywords")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Keywords")),
-                                    CreatedAt = reader.GetDateTime(reader.GetOrdinal("created_at")),
-                                    UpdatedAt = null, // Assuming no "updated_at" field
+
                                     Facebook = reader.IsDBNull(reader.GetOrdinal("facebook")) ? "N/A" : reader.GetString(reader.GetOrdinal("facebook")),
                                     Twitter = reader.IsDBNull(reader.GetOrdinal("twitter")) ? "N/A" : reader.GetString(reader.GetOrdinal("twitter")),
                                     LinkedIn = reader.IsDBNull(reader.GetOrdinal("linkedin")) ? "N/A" : reader.GetString(reader.GetOrdinal("linkedin")),
@@ -67,13 +70,13 @@ namespace WCRM.DataAccess.AdminPanel
 
                                 });
                             }
-                            
+
                         }
                         else
                         {
 
                         }
-                        
+
                     }
                 }
             }
@@ -103,15 +106,18 @@ namespace WCRM.DataAccess.AdminPanel
                             config = new WebsiteConfig
                             {
                                 Id = reader.GetInt64(reader.GetOrdinal("id")),
-                                Title = reader.GetString(reader.GetOrdinal("name")),
+                                Title = reader.IsDBNull(reader.GetOrdinal("name")) ? null : reader.GetString(reader.GetOrdinal("name")),
                                 Description = reader.IsDBNull(reader.GetOrdinal("about_us")) ? "" : reader.GetString(reader.GetOrdinal("about_us")),
                                 logo = reader.IsDBNull(reader.GetOrdinal("logo")) ? null : reader.GetString(reader.GetOrdinal("logo")),
-                                Status = reader.IsDBNull(reader.GetOrdinal("Status")) ? "N/A" : reader.GetString(reader.GetOrdinal("Status")), // Not in SELECT query, add if needed
+                                Status = reader.IsDBNull(reader.GetOrdinal("Status")) ? "N/A" : reader.GetString(reader.GetOrdinal("Status")),
+                                Email = reader.IsDBNull(reader.GetOrdinal("email")) ? "" : reader.GetString(reader.GetOrdinal("email")),
+                                Phone = reader.IsDBNull(reader.GetOrdinal("phone")) ? "" : reader.GetString(reader.GetOrdinal("phone")),
+                                Address = reader.IsDBNull(reader.GetOrdinal("address")) ? "" : reader.GetString(reader.GetOrdinal("address")),
+                                CreatedAt = reader.GetDateTime(reader.GetOrdinal("created_at")),// Not in SELECT query, add if needed
                                 SEO_Title = reader.IsDBNull(reader.GetOrdinal("SEO_Title")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Title")),
                                 SEO_Description = reader.IsDBNull(reader.GetOrdinal("SEO_Description")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Description")),
                                 SEO_Keywords = reader.IsDBNull(reader.GetOrdinal("SEO_Keywords")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Keywords")),
-                                CreatedAt = reader.GetDateTime(reader.GetOrdinal("created_at")),
-                                UpdatedAt = null, // Assuming no "updated_at" field
+
                                 Facebook = reader.IsDBNull(reader.GetOrdinal("facebook")) ? "N/A" : reader.GetString(reader.GetOrdinal("facebook")),
                                 Twitter = reader.IsDBNull(reader.GetOrdinal("twitter")) ? "N/A" : reader.GetString(reader.GetOrdinal("twitter")),
                                 LinkedIn = reader.IsDBNull(reader.GetOrdinal("linkedin")) ? "N/A" : reader.GetString(reader.GetOrdinal("linkedin")),
@@ -138,30 +144,7 @@ namespace WCRM.DataAccess.AdminPanel
             return config;
         }
 
-        // Add a new project using stored procedure
-        public void AddSlider(Slider slider)
-        {
-            using (var connection = DBConnection.GetConnection())
-            {
-                connection.Open();
-                using (var command = new SqlCommand("AddSlider", connection))
-                {
-                    command.CommandType = CommandType.StoredProcedure;                    
-                    command.Parameters.AddWithValue("@Title", slider.Title);
-                    command.Parameters.AddWithValue("@Description", slider.Description);
-                    command.Parameters.AddWithValue("@slider_image", slider.SliderImage ?? (object)DBNull.Value);
-                    command.Parameters.AddWithValue("@Status", slider.Status ?? (object)DBNull.Value);
 
-                    // SEO Fields (Fixing typo)
-                    command.Parameters.AddWithValue("@SEO_Title", slider.SEO_Title ?? (object)DBNull.Value);
-                    command.Parameters.AddWithValue("@SEO_Description", slider.SEO_Description ?? (object)DBNull.Value);
-                    command.Parameters.AddWithValue("@SEO_Keywords", slider.SEO_Keywords ?? (object)DBNull.Value);
-
-
-                    command.ExecuteNonQuery();
-                }
-            }
-        }
 
         // Update project
         public void UpdateWebsiteConfig(WebsiteConfig configs)
@@ -169,17 +152,36 @@ namespace WCRM.DataAccess.AdminPanel
             using (var connection = DBConnection.GetConnection())
             {
                 connection.Open();
-                using (var command = new SqlCommand("UpdateSliders", connection))
+                using (var command = new SqlCommand("SP_InsertUpdateWebsiteSettings", connection))
                 {
-                    //command.CommandType = CommandType.StoredProcedure;
-                    //command.Parameters.AddWithValue("@Id", slider.Id);
-                    //command.Parameters.AddWithValue("@Title", slider.Title);
-                    //command.Parameters.AddWithValue("@Description", slider.Description);
-                    //command.Parameters.AddWithValue("@slider_image", slider.SliderImage ?? (object)DBNull.Value);
-                    //command.Parameters.AddWithValue("@Status", slider.Status ?? (object)DBNull.Value);
-                    //command.Parameters.AddWithValue("@SEO_Title", slider.SEO_Title);
-                    //command.Parameters.AddWithValue("@SEO_Description", slider.SEO_Description);
-                    //command.Parameters.AddWithValue("@SEO_Keywords", slider.SEO_Keywords);
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue("@Id", configs.Id);
+                    command.Parameters.AddWithValue("@name", configs.Title);
+                    command.Parameters.AddWithValue("@logo", configs.logo ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@email", configs.Email);
+                    command.Parameters.AddWithValue("@phone", configs.Phone);
+                    command.Parameters.AddWithValue("@address", configs.Address);
+                    command.Parameters.AddWithValue("@about_us", configs.Description);
+                    command.Parameters.AddWithValue("@facebook", configs.Facebook ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@twitter", configs.Twitter ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@linkedin", configs.LinkedIn ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@youtube", configs.YouTube ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@instagram", configs.Instagram ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@telegram", configs.Telegram ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@whatsapp", configs.WhatsApp ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@wechat", configs.WeChat ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@skype", configs.Skype ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@snapchat", configs.Snapchat ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@tiktok", configs.TikTok ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@pinterest", configs.Pinterest ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@reddit", configs.Reddit ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@vimeo", configs.Vimeo ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@quora", configs.Quora ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@myspace", configs.MySpace ?? (object)DBNull.Value);
+                    command.Parameters.AddWithValue("@Status", configs.Status);
+                    command.Parameters.AddWithValue("@SEO_Title", configs.SEO_Title);
+                    command.Parameters.AddWithValue("@SEO_Description", configs.SEO_Description);
+                    command.Parameters.AddWithValue("@SEO_Keywords", configs.SEO_Keywords);
 
 
                     command.ExecuteNonQuery();

@@ -1,3 +1,4 @@
+using System.Data;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
@@ -34,12 +35,66 @@ namespace WCRM.Controllers.Main
             {
                 Services = GetServices(connString),
                 Products = GetProducts(connString),
-                sliders = GetSliders(connString)
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString)
             };
-            
+
 
             return View(viewModel);
-          
+
+        }
+        public WebsiteConfig GetConfigs(string connString)
+        {
+            WebsiteConfig configs = new WebsiteConfig();
+
+            using (SqlConnection conn = new SqlConnection(connString))
+            {
+                string query = "GetAllWebsiteConfig";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                conn.Open();
+
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+
+                    //configs.Add(new WebsiteConfig
+                    //{
+                    configs.Id = reader.GetInt64(reader.GetOrdinal("id"));
+                    configs.Title = reader.GetString(reader.GetOrdinal("name"));
+                    configs.Description = reader.IsDBNull(reader.GetOrdinal("about_us")) ? "" : reader.GetString(reader.GetOrdinal("about_us"));
+                    configs.logo = reader.IsDBNull(reader.GetOrdinal("logo")) ? null : reader.GetString(reader.GetOrdinal("logo"));
+                    configs.Email = reader.IsDBNull(reader.GetOrdinal("Email")) ? "" : reader.GetString(reader.GetOrdinal("Email"));
+                    configs.Address = reader.IsDBNull(reader.GetOrdinal("Address")) ? "" : reader.GetString(reader.GetOrdinal("Address"));
+                    configs.Phone = reader.IsDBNull(reader.GetOrdinal("Phone")) ? "" : reader.GetString(reader.GetOrdinal("Phone"));
+
+                    configs.Status = reader.IsDBNull(reader.GetOrdinal("Status")) ? "N/A" : reader.GetString(reader.GetOrdinal("Status")); // Not in SELECT query, add if needed
+                    configs.SEO_Title = reader.IsDBNull(reader.GetOrdinal("SEO_Title")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Title"));
+                    configs.SEO_Description = reader.IsDBNull(reader.GetOrdinal("SEO_Description")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Description"));
+                    configs.SEO_Keywords = reader.IsDBNull(reader.GetOrdinal("SEO_Keywords")) ? "" : reader.GetString(reader.GetOrdinal("SEO_Keywords"));
+                    configs.CreatedAt = reader.GetDateTime(reader.GetOrdinal("created_at"));
+                    configs.UpdatedAt = null; // Assuming no "updated_at" field
+                    configs.Facebook = reader.IsDBNull(reader.GetOrdinal("facebook")) ? "N/A" : reader.GetString(reader.GetOrdinal("facebook"));
+                    configs.Twitter = reader.IsDBNull(reader.GetOrdinal("twitter")) ? "N/A" : reader.GetString(reader.GetOrdinal("twitter"));
+                    configs.LinkedIn = reader.IsDBNull(reader.GetOrdinal("linkedin")) ? "N/A" : reader.GetString(reader.GetOrdinal("linkedin"));
+                    configs.YouTube = reader.IsDBNull(reader.GetOrdinal("youtube")) ? "N/A" : reader.GetString(reader.GetOrdinal("youtube"));
+                    configs.Instagram = reader.IsDBNull(reader.GetOrdinal("instagram")) ? "N/A" : reader.GetString(reader.GetOrdinal("instagram"));
+                    configs.Telegram = reader.IsDBNull(reader.GetOrdinal("telegram")) ? "N/A" : reader.GetString(reader.GetOrdinal("telegram"));
+                    configs.WhatsApp = reader.IsDBNull(reader.GetOrdinal("whatsapp")) ? "N/A" : reader.GetString(reader.GetOrdinal("whatsapp"));
+                    configs.WeChat = reader.IsDBNull(reader.GetOrdinal("wechat")) ? "N/A" : reader.GetString(reader.GetOrdinal("wechat"));
+                    configs.Skype = reader.IsDBNull(reader.GetOrdinal("skype")) ? "N/A" : reader.GetString(reader.GetOrdinal("skype"));
+                    configs.Snapchat = reader.IsDBNull(reader.GetOrdinal("snapchat")) ? "N/A" : reader.GetString(reader.GetOrdinal("snapchat"));
+                    configs.TikTok = reader.IsDBNull(reader.GetOrdinal("tiktok")) ? "N/A" : reader.GetString(reader.GetOrdinal("tiktok"));
+                    configs.Pinterest = reader.IsDBNull(reader.GetOrdinal("pinterest")) ? "N/A" : reader.GetString(reader.GetOrdinal("pinterest"));
+                    configs.Reddit = reader.IsDBNull(reader.GetOrdinal("reddit")) ? "N/A" : reader.GetString(reader.GetOrdinal("reddit"));
+                    configs.Vimeo = reader.IsDBNull(reader.GetOrdinal("vimeo")) ? "N/A" : reader.GetString(reader.GetOrdinal("vimeo"));
+                    configs.Quora = reader.IsDBNull(reader.GetOrdinal("quora")) ? "N/A" : reader.GetString(reader.GetOrdinal("quora"));
+                    configs.MySpace = reader.IsDBNull(reader.GetOrdinal("myspace")) ? "N/A" : reader.GetString(reader.GetOrdinal("myspace"));
+                    //});
+                }
+            }
+
+            return configs;
         }
         public List<Slider> GetSliders(string connString)
         {
@@ -133,34 +188,84 @@ namespace WCRM.Controllers.Main
             connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
             DBConnectionServices.DatabaseConn(connString);
             #endregion
-            List<Service> services = GetServices(connString);
-            return View(services);
+
+            var viewModel = new HomeViewModel
+            {
+                Services = GetServices(connString),
+                Products = GetProducts(connString),
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString)
+            };
+
+            //List<Service> services = GetServices(connString);
+            return View(viewModel);
         }
         public IActionResult Clients()
         {
-            
+
 
             return View();
         }
         public IActionResult Technology()
         {
-            
+            #region
+            string connString = string.Empty;
+            connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
+            DBConnectionServices.DatabaseConn(connString);
+            #endregion
 
-            return View();
+            var viewModel = new HomeViewModel
+            {
+                Services = GetServices(connString),
+                Products = GetProducts(connString),
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString)
+            };
+
+            //List<Service> services = GetServices(connString);
+            return View(viewModel);
+
+            //return View();
         }
         public IActionResult Industries()
         {
-            
+            #region
+            string connString = string.Empty;
+            connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
+            DBConnectionServices.DatabaseConn(connString);
+            #endregion
 
-            return View();
+            var viewModel = new HomeViewModel
+            {
+                Services = GetServices(connString),
+                Products = GetProducts(connString),
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString)
+            };
+
+            //List<Service> services = GetServices(connString);
+            return View(viewModel);
         }
         public IActionResult Contact()
         {
-            
+            #region
+            string connString = string.Empty;
+            connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
+            DBConnectionServices.DatabaseConn(connString);
+            #endregion
 
-            return View();
+            var viewModel = new HomeViewModel
+            {
+                Services = GetServices(connString),
+                Products = GetProducts(connString),
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString)
+            };
+
+            //List<Service> services = GetServices(connString);
+            return View(viewModel);
         }
-      
+
         public IActionResult Privacy()
         {
             #region
@@ -168,8 +273,25 @@ namespace WCRM.Controllers.Main
             connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
             DBConnectionServices.DatabaseConn(connString);
             #endregion
-            List<Privacy> privacys = GetPrivacy(connString);
-            return View(privacys);
+
+            var viewModel = new HomeViewModel
+            {
+                Services = GetServices(connString),
+                Products = GetProducts(connString),
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString),
+                privacy = GetPrivacy(connString),
+            };
+
+            //List<Service> services = GetServices(connString);
+            return View(viewModel);
+            //#region
+            //string connString = string.Empty;
+            //connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
+            //DBConnectionServices.DatabaseConn(connString);
+            //#endregion
+            //List<Privacy> privacys = GetPrivacy(connString);
+            //return View(privacys);
         }
         public List<Privacy> GetPrivacy(string connString)
         {

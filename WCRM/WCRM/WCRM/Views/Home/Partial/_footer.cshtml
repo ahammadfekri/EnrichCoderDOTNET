@@ -1,21 +1,23 @@
-﻿<!-- Footer Start -->
+﻿@using WCRM.ViewModel
+@model HomeViewModel
+<!-- Footer Start -->
 <div class="container-fluid bg-dark footer mt-5 py-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-4 col-md-6">
                 <h4 class="text-white mb-4">Our Office</h4>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Brookly, New York</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+19299917974</p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@enrichcoder.com</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>@Model.configs.Address</p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>@Model.configs.Email</p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>@Model.configs.Phone</p>
                 <div class="d-flex pt-3">
 
-                    <a class="btn btn-square btn-light rounded-circle me-2" href="https://www.facebook.com/enrichcoder/" target="https://www.facebook.com/enrichcoder/"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-square btn-light rounded-circle me-2" href="@Model.configs.Facebook" target="@Model.configs.Facebook"><i class="fab fa-facebook-f"></i></a>
 
-                    <a class="btn btn-square btn-light rounded-circle me-2" href="https://www.instagram.com/" target="http://twitter.com/"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-square btn-light rounded-circle me-2" href="@Model.configs.Twitter" target="@Model.configs.Twitter"><i class="fab fa-twitter"></i></a>
 
                     @* <a class="btn btn-square btn-light rounded-circle me-2" href="#"><i class="fab fa-youtube"></i></a> *@
 
-                    <a class="btn btn-square btn-light rounded-circle me-2" href="https://www.instagram.com/" target="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-square btn-light rounded-circle me-2" href="@Model.configs.Instagram" target="@Model.configs.Instagram"><i class="fab fa-instagram"></i></a>
                    
                 </div>
             </div>
