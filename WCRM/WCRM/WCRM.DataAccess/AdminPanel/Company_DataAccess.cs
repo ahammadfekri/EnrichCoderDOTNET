@@ -97,7 +97,7 @@ namespace WCRM.DataAccess.AdminPanel
 
 
         // Add a new project using stored procedure
-        public void Addcompany(Company company)
+        public void AddCompany(Company company)
         {
             using (var connection = DBConnection.GetConnection())
             {

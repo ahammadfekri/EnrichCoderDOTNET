@@ -36,12 +36,39 @@ namespace WCRM.Controllers.Main
                 Services = GetServices(connString),
                 Products = GetProducts(connString),
                 sliders = GetSliders(connString),
-                configs = GetConfigs(connString)
+                configs = GetConfigs(connString),
+                company = GetCompany(connString),
+                industries = GetIndustry(connString),
             };
 
 
             return View(viewModel);
 
+        }
+        public List<Industry> GetIndustry(string connString)
+        {
+            List<Industry> industries = new List<Industry>();
+
+            using (SqlConnection conn = new SqlConnection(connString))
+            {
+                string query = "select top 6 Id, name,description,icon from Industries  where Status='Published'   ORDER BY created_at DESC";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                conn.Open();
+
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    industries.Add(new Industry
+                    {
+                        Id = Convert.ToInt64(reader["Id"]),
+                        Name = reader["name"].ToString(),
+                        Description = reader["description"].ToString(),
+                        Icon = reader["icon"].ToString()
+                    });
+                }
+            }
+
+            return industries;
         }
         public WebsiteConfig GetConfigs(string connString)
         {
@@ -102,7 +129,7 @@ namespace WCRM.Controllers.Main
 
             using (SqlConnection conn = new SqlConnection(connString))
             {
-                string query = "select Id, title,description,slider_image from sliders where status='Published'";
+                string query = "select top 6 Id, title,description,slider_image from sliders where status='Published'   ORDER BY created_at DESC";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 conn.Open();
 
@@ -127,7 +154,7 @@ namespace WCRM.Controllers.Main
 
             using (SqlConnection conn = new SqlConnection(connString))
             {
-                string query = "select Id, name,description from products";
+                string query = "select top 6 Id, name,description from products  where Status='Published'   ORDER BY created_at DESC ";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 conn.Open();
 
@@ -152,7 +179,7 @@ namespace WCRM.Controllers.Main
 
             using (SqlConnection conn = new SqlConnection(connString))
             {
-                string query = "SELECT Id, Name, Description, icon, Status, SEO_Title, SEO_Description, SEO_Keywords, created_at, updated_at   FROM services where Status='Published'   ORDER BY created_at DESC";
+                string query = "SELECT top 6 Id, Name, Description, icon, Status, SEO_Title, SEO_Description, SEO_Keywords, created_at, updated_at   FROM services where Status='Published'   ORDER BY created_at DESC";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 conn.Open();
 
@@ -173,13 +200,24 @@ namespace WCRM.Controllers.Main
         }
         public IActionResult Company()
         {
+            
             #region
-            //string connString = string.Empty;
-            //connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
-            //DBConnectionServices.DatabaseConn(connString);
+            string connString = string.Empty;
+            connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
+            DBConnectionServices.DatabaseConn(connString);
             #endregion
 
-            return View();
+            var viewModel = new HomeViewModel
+            {
+                Services = GetServices(connString),
+                Products = GetProducts(connString),
+                sliders = GetSliders(connString),
+                configs = GetConfigs(connString),
+                privacy = GetPrivacy(connString),
+                company = GetCompany(connString),
+            };
+
+            return View(viewModel);
         }
         public IActionResult Services()
         {
@@ -197,7 +235,6 @@ namespace WCRM.Controllers.Main
                 configs = GetConfigs(connString)
             };
 
-            //List<Service> services = GetServices(connString);
             return View(viewModel);
         }
         public IActionResult Clients()
@@ -222,7 +259,6 @@ namespace WCRM.Controllers.Main
                 configs = GetConfigs(connString)
             };
 
-            //List<Service> services = GetServices(connString);
             return View(viewModel);
 
             //return View();
@@ -240,10 +276,10 @@ namespace WCRM.Controllers.Main
                 Services = GetServices(connString),
                 Products = GetProducts(connString),
                 sliders = GetSliders(connString),
-                configs = GetConfigs(connString)
+                configs = GetConfigs(connString),
+                industries = GetIndustry(connString),
             };
 
-            //List<Service> services = GetServices(connString);
             return View(viewModel);
         }
         public IActionResult Contact()
@@ -262,7 +298,6 @@ namespace WCRM.Controllers.Main
                 configs = GetConfigs(connString)
             };
 
-            //List<Service> services = GetServices(connString);
             return View(viewModel);
         }
 
@@ -282,16 +317,9 @@ namespace WCRM.Controllers.Main
                 configs = GetConfigs(connString),
                 privacy = GetPrivacy(connString),
             };
-
-            //List<Service> services = GetServices(connString);
+            
             return View(viewModel);
-            //#region
-            //string connString = string.Empty;
-            //connString = this.Configuration.GetConnectionString("WeblinkDBConnection");
-            //DBConnectionServices.DatabaseConn(connString);
-            //#endregion
-            //List<Privacy> privacys = GetPrivacy(connString);
-            //return View(privacys);
+           
         }
         public List<Privacy> GetPrivacy(string connString)
         {
@@ -317,6 +345,31 @@ namespace WCRM.Controllers.Main
             }
 
             return privacys;
+        }
+        public List<Company> GetCompany(string connString)
+        {
+            List<Company> companies = new List<Company>();
+
+            using (SqlConnection conn = new SqlConnection(connString))
+            {
+                string query = "SELECT top 1 Id, Name, Description, icon, Status, SEO_Title, SEO_Description, SEO_Keywords, created_at, updated_at   FROM Company where Status='Published'   ORDER BY created_at DESC";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                conn.Open();
+
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    companies.Add(new Company
+                    {
+                        Id = Convert.ToInt64(reader["Id"]),
+                        Name = reader["Name"].ToString(),
+                        Description = reader["Description"].ToString(),
+                        Icon = reader["icon"].ToString()
+                    });
+                }
+            }
+
+            return companies;
         }
     }
 }

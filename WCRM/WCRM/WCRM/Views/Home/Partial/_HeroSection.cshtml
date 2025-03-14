@@ -19,7 +19,7 @@
         <a href="#" class="default-btn white-btn btn-arrow">Let’s Talk</a>
     </div>
 </div>
-    @*  <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+@*  <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
     </button>
@@ -28,7 +28,7 @@
         <span class="visually-hidden">Next</span>
     </button> *@
 
-   @*  <div class="carousel-indicators">
+@*  <div class="carousel-indicators">
         <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
@@ -72,7 +72,7 @@
                             <div class="provided-block-item-image mb-3 text-center">
                                 <picture>
                                     <img src="@service.Icon" data-src="@service.Icon" alt="@service.Name"
-                                         class="lazy-image" style="width: 50px; height: 50px;">
+                                    class="lazy-image" style="width: 50px; height: 50px;">
                                 </picture>
                             </div>
                             <h3 class="provided-block-item-title text-dark fw-medium text-center mb-3">@service.Name</h3>
@@ -96,30 +96,37 @@
         </div>
         <div class="wow fadeInUp" data-wow-delay="0.1s">
             <div class="row g-4">
-                <div class="col-md-6 fade-in">
-                    <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Our-Service.png"
-                         class="img-fluid welcome-img"
-                         alt="Enrich Coder Welcome Image">
-                </div>
-
-                <div class="col-md-6 fade-in">
-                    <div class="content-wrapper">
-                        <h1>Welcome To Enrich Coder</h1>
-                        <p>
-                            At Enrich Coder, we're more than just a software company; we're your strategic technology partner. With a focus on innovation and a deep commitment to our clients, we offer a comprehensive suite of services that empower businesses to thrive in the digital age.
-                        </p>
-                        <p>
-                            Our expertise spans across custom software development, Cloud web services, mobile app development, web design, and a wide array of IT solutions. What sets us apart is our seasoned team of professionals who have successfully tackled intricate projects in various industries, consistently exceeding client expectations.
-                        </p>
-                        <p>
-                            When you choose Enrich Coder, you're choosing a partner who values your success above all else. Our dedication to delivering exceptional results, transparent pricing structures, and unparalleled customer service has made us a leader in our field.
-                        </p>
-                        <p>
-                            Discover Enrich Coder and experience the difference of working with a team that is passionate about technology and driven by your success. About us – it's all about you.
-                        </p>
+                @foreach (var company in Model.company)
+                {
+                    <div class="col-md-6 fade-in">
+                        <img src="@company.Icon"
+                        class="img-fluid welcome-img"
+                        alt="Enrich Coder Welcome Image">
                     </div>
-                </div>
+
+                    <div class="col-md-6 fade-in">
+
+                        <div class="content-wrapper">
+                            <h1>Welcome To @company.Name</h1>
+                            @Html.Raw(@company.Description)
+                            @* <p>
+                                At Enrich Coder, we're more than just a software company; we're your strategic technology partner. With a focus on innovation and a deep commitment to our clients, we offer a comprehensive suite of services that empower businesses to thrive in the digital age.
+                            </p>
+                            <p>
+                                Our expertise spans across custom software development, Cloud web services, mobile app development, web design, and a wide array of IT solutions. What sets us apart is our seasoned team of professionals who have successfully tackled intricate projects in various industries, consistently exceeding client expectations.
+                            </p>
+                            <p>
+                                When you choose Enrich Coder, you're choosing a partner who values your success above all else. Our dedication to delivering exceptional results, transparent pricing structures, and unparalleled customer service has made us a leader in our field.
+                            </p>
+                            <p>
+                                Discover Enrich Coder and experience the difference of working with a team that is passionate about technology and driven by your success. About us – it's all about you.
+                            </p> *@
+                        </div>
+
+                    </div>
+                }
             </div>
+
         </div>
     </div>
 </div>
@@ -202,38 +209,41 @@
         </div>
         <div class="wow fadeInUp" data-wow-delay="0.1s">
             <div class="row justify-content-center">
-                <div class="col-md-3">
-                    <div class="card">
-                        <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Real-Estate-Enrich-Coder-Service.png"
-                             class="card-img-top card-img-custom"
-                             alt="Progress Image">
-                        <h5 class="text-center py-2">Real Estate</h5>
+                @foreach (var industry in Model.industries)
+                {
+                    <div class="col-md-3">
+                        <div class="card">
+                            <img src="@industry.Icon"
+                            class="card-img-top card-img-custom"
+                            alt="Progress Image">
+                            <h5 class="text-center py-2">@industry.Name</h5>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Healthcare-Enrich-Coder-Service.png"
-                             class="card-img-top card-img-custom"
-                             alt="Progress Image">
-                        <h5 class="text-center py-2">Health Care</h5>
+                    @* <div class="col-md-3">
+                        <div class="card">
+                            <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Healthcare-Enrich-Coder-Service.png"
+                            class="card-img-top card-img-custom"
+                            alt="Progress Image">
+                            <h5 class="text-center py-2">Health Care</h5>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Automobiles-Enrich-Coder-Service.png"
-                             class="card-img-top card-img-custom"
-                             alt="Progress Image">
-                        <h5 class="text-center py-2">Automobiles</h5>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Automobiles-Enrich-Coder-Service.png"
+                            class="card-img-top card-img-custom"
+                            alt="Progress Image">
+                            <h5 class="text-center py-2">Automobiles</h5>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Travel-Tourism-Enrich-Coder-Service-.png"
-                             class="card-img-top card-img-custom"
-                             alt="Progress Image">
-                        <h5 class="text-center py-2">Travel & Tourism</h5>
-                    </div>
-                </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <img src="https://enrichcoder.com/wp-content/uploads/2022/11/Travel-Tourism-Enrich-Coder-Service-.png"
+                            class="card-img-top card-img-custom"
+                            alt="Progress Image">
+                            <h5 class="text-center py-2">Travel & Tourism</h5>
+                        </div>
+                    </div> *@
+                }
             </div>
         </div>
     </div>
@@ -292,10 +302,73 @@
         </div>
     </div>
     <!-- Product End -->
+<!-- Journey Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-0 feature-row">
 
+            <div class="col-md-6 col-lg-3">
+                <div class="feature-item border h-100 p-5">
+                    <div class="d-flex">
+                        <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                            <i class="fas fa-users fa-2x text-primary"></i>
+                        </div>
+                        <div style="margin-left: 23px;">
+                            <h5 class="mb-3 counter-number" data-target="1500">+0</h5>
+                            <p class="mb-0">Happy Clients</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3">
+                <div class="feature-item border h-100 p-5">
+                    <div class="d-flex">
+                        <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                            <i class="fas fa-project-diagram fa-2x text-primary"></i>
+                        </div>
+                        <div style="margin-left: 23px;">
+                            <h5 class="mb-3 counter-number" data-target="1200">+0</h5>
+                            <p class="mb-0">Projects Completed</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3">
+                <div class="feature-item border h-100 p-5">
+                    <div class="d-flex">
+                        <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                            <i class="fas fa-award fa-2x text-primary"></i>
+                        </div>
+                        <div style="margin-left: 23px;">
+                            <h5 class="mb-3 counter-number" data-target="150">+0</h5>
+                            <p class="mb-0">Awards Won</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3">
+                <div class="feature-item border h-100 p-5">
+                    <div class="d-flex">
+                        <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                            <i class="fas fa-user-tie fa-2x text-primary"></i>
+                        </div>
+                        <div style="margin-left: 23px;">
+                            <h5 class="mb-3 counter-number" data-target="25">+0</h5>
+                            <p class="mb-0">Team Members</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Journey End -->
 
     <!-- Quote Start -->
-    <div class="container-xxl py-5">
+<div class="container-xxl py-5" style="display:flex; background-color: #f4f4f4; font-family: Arial, sans-serif;justify-content: center;align-items: center;height: 100vh;">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">

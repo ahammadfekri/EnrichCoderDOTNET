@@ -9,5 +9,7 @@ namespace WCRM.ViewModel
         public List<Slider> sliders { get; set; }
         public WebsiteConfig configs { get; set; }
         public List<Privacy> privacy { get; set; }
+        public List<Company> company { get; set; }
+        public List<Industry> industries { get; set; }
     }
 }

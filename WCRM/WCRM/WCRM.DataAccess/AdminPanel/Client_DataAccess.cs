@@ -39,7 +39,7 @@ namespace WCRM.DataAccess.AdminPanel
                         {
                             client.Add(new Client
                             {
-                                Id = reader.GetInt16(0),
+                                Id = reader.GetInt32(0),
                                 Name = reader.GetString(1),
                                 Description = reader.IsDBNull(2) ? "" : reader.GetString(2),
                                 ClientLogo = reader.IsDBNull(3) ? null : reader.GetString(3),
@@ -58,7 +58,7 @@ namespace WCRM.DataAccess.AdminPanel
             return client;
         }
 
-        public Client GetClientById(long id)
+        public Client GetClientById(int id)
         {
             Client client = null;
 
@@ -75,7 +75,7 @@ namespace WCRM.DataAccess.AdminPanel
                         {
                             client = new Client
                             {
-                                Id = reader.GetInt16(0),
+                                Id = reader.GetInt32(0),
                                 Name = reader.GetString(1),
                                 Description = reader.IsDBNull(2) ? "" : reader.GetString(2),
                                 ClientLogo = reader.IsDBNull(3) ? null : reader.GetString(3),
