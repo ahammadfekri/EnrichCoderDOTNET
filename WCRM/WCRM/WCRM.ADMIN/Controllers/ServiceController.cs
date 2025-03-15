@@ -34,21 +34,38 @@ namespace WCRM.ADMIN.Controllers
             // Handle Image Upload
             if (ImageFile != null && ImageFile.Length > 0)
             {
-                string uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+               
+                // ✅ Path to WCRM Frontend's wwwroot/uploads using relative path
+                string frontendUploadsFolder = Path.GetFullPath(
+                    Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "WCRM", "WCRM", "wwwroot", "uploads")
+                );
 
-                // Create 'uploads' folder if it doesn't exist
-                if (!Directory.Exists(uploadsFolder))
-                {
-                    Directory.CreateDirectory(uploadsFolder);
-                }
+                // ✅ Path to WCRM.ADMIN's wwwroot/uploads
+                string adminUploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
 
+                // ✅ Ensure both folders exist
+                if (!Directory.Exists(frontendUploadsFolder))
+                    Directory.CreateDirectory(frontendUploadsFolder);
+
+                if (!Directory.Exists(adminUploadsFolder))
+                    Directory.CreateDirectory(adminUploadsFolder);
+
+                // ✅ Generate unique filename
                 string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(ImageFile.FileName);
-                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
 
-                using (var stream = new FileStream(filePath, FileMode.Create))
+                // ✅ File paths
+                string frontendFilePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
+                string adminFilePath = Path.Combine(adminUploadsFolder, uniqueFileName);
+
+                // ✅ Save file to frontend (WCRM)
+                using (var stream = new FileStream(frontendFilePath, FileMode.Create))
                 {
                     ImageFile.CopyTo(stream);
                 }
+
+                // ✅ Copy file to Admin (WCRM.ADMIN)
+                System.IO.File.Copy(frontendFilePath, adminFilePath, true); // Overwrite if exists
+
 
                 model.Icon = "/uploads/" + uniqueFileName; // URL for display
                 model.Status = model.Status ?? "Unpublished";
@@ -82,20 +99,34 @@ namespace WCRM.ADMIN.Controllers
             // Handle Image Upload
             if (ImageFile != null && ImageFile.Length > 0)
             {
-                string uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+                
+                // ✅ Path to WCRM (frontend) wwwroot/uploads using relative path
+                string frontendUploadsFolder = Path.GetFullPath(
+                    Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "WCRM", "wwwroot", "uploads")
+                );
+                // ✅ Path to WCRM.ADMIN's wwwroot/uploads
+                string adminUploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
 
-                if (!Directory.Exists(uploadsFolder))
-                {
-                    Directory.CreateDirectory(uploadsFolder);
-                }
+                // ✅ Ensure both folders exist
+                if (!Directory.Exists(frontendUploadsFolder))
+                    Directory.CreateDirectory(frontendUploadsFolder);
 
+                if (!Directory.Exists(adminUploadsFolder))
+                    Directory.CreateDirectory(adminUploadsFolder);
+
+                // ✅ Generate unique filename
                 string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(ImageFile.FileName);
-                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
-
+                string filePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
+                // ✅ File paths
+                string frontendFilePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
+                string adminFilePath = Path.Combine(adminUploadsFolder, uniqueFileName);
+                // ✅ Save the file to WCRM (frontend)
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     ImageFile.CopyTo(stream);
                 }
+                // ✅ Copy file to Admin (WCRM.ADMIN)
+                System.IO.File.Copy(frontendFilePath, adminFilePath, true); // Overwrite if exists
 
                 // Ensure rich text is stored properly
                 model.Description = model.Description ?? "";

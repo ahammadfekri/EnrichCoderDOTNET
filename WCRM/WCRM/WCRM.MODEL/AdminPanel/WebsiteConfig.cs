@@ -39,5 +39,10 @@ namespace WCRM.MODEL.AdminPanel
         public string? MySpace { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
+        public int happyclient{ get; set; }
+        public int award { get; set; }
+        public int projects { get; set; }
+        public int team_member { get; set; }
+
     }
 }

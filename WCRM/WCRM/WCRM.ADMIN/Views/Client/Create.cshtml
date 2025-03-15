@@ -1,10 +1,10 @@
-﻿@model WCRM.MODEL.AdminPanel.Industry
+﻿@model WCRM.MODEL.AdminPanel.Client
 @{
-    ViewData["Title"] = "Create Industry";
+    ViewData["Title"] = "Create Client";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h2>Create New Industry</h2>
+<h2>Create New Client</h2>
 
 <!-- Create Form -->
 <form asp-action="Create" method="post" enctype="multipart/form-data">
@@ -13,9 +13,11 @@
         <div class="card-body">
             <ul class="nav nav-tabs" id="portfolioTabs">
                 <li class="nav-item">
-                    <a class="nav-link active" id="general-tab" data-bs-toggle="tab" href="#general">Industry Info</a>
+                    <a class="nav-link active" id="general-tab" data-bs-toggle="tab" href="#general">Client Info</a>
                 </li>
-                
+                <li class="nav-item">
+                    <a class="nav-link" id="seo-tab" data-bs-toggle="tab" href="#seo">SEO Info</a>
+                </li>
             </ul>
 
             <div class="tab-content mt-3">
@@ -38,10 +40,10 @@
                     </div>
 
                     <div class="row mb-3">
-                        <label asp-for="ImageFile" class="col-sm-3 col-form-label text-end">Industry Icon</label>
+                        <label asp-for="ClientLogo" class="col-sm-3 col-form-label text-end">Client Icon</label>
                         <div class="col-sm-9">
-                            <input type="file" asp-for="ImageFile" class="form-control" accept="image/*" required />
-                            <span asp-validation-for="ImageFile" class="text-danger"></span>
+                            <input type="file" asp-for="ClientLogo" class="form-control" accept="image/*" required />
+                            <span asp-validation-for="ClientLogo" class="text-danger"></span>
                         </div>
                     </div>
 
@@ -60,7 +62,7 @@
                 <!-- SEO Info Tab -->
                 <div class="tab-content mt-3">
 
-                    @* <!-- SEO Info Tab -->
+                    <!-- SEO Info Tab -->
                     <!-- SEO Info Tab -->
                     <div class="tab-pane fade" id="seo">
                         <div class="row mb-3">
@@ -86,7 +88,7 @@
                                 <span asp-validation-for="SEO_Keywords" class="text-danger"></span>
                             </div>
                         </div>
-                    </div> *@
+                    </div>
 
                 </div>
 

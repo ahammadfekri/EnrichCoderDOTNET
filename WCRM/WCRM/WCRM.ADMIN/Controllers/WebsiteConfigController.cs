@@ -39,22 +39,29 @@ namespace WCRM.ADMIN.Controllers
                 string frontendUploadsFolder = Path.GetFullPath(
                     Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "WCRM", "wwwroot", "uploads")
                 );
+                // ✅ Path to WCRM.ADMIN's wwwroot/uploads
+                string adminUploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
 
-                // ✅ Create uploads folder if it doesn't exist
+                // ✅ Ensure both folders exist
                 if (!Directory.Exists(frontendUploadsFolder))
-                {
                     Directory.CreateDirectory(frontendUploadsFolder);
-                }
+
+                if (!Directory.Exists(adminUploadsFolder))
+                    Directory.CreateDirectory(adminUploadsFolder);
 
                 // ✅ Generate unique filename
                 string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(ImageFile.FileName);
                 string filePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
-
+                // ✅ File paths
+                string frontendFilePath = Path.Combine(frontendUploadsFolder, uniqueFileName);
+                string adminFilePath = Path.Combine(adminUploadsFolder, uniqueFileName);
                 // ✅ Save the file to WCRM (frontend)
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     ImageFile.CopyTo(stream);
                 }
+                // ✅ Copy file to Admin (WCRM.ADMIN)
+                System.IO.File.Copy(frontendFilePath, adminFilePath, true); // Overwrite if exists
 
                 // ✅ Ensure rich text is stored properly
                 model.Description = model.Description ?? "";

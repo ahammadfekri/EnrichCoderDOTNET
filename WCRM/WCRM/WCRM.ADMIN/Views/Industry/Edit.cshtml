@@ -12,7 +12,9 @@
             <li class="nav-item">
                 <a class="nav-link active" id="general-tab" data-bs-toggle="tab" href="#general">Industry Info</a>
             </li>
-           
+            <li class="nav-item">
+                <a class="nav-link" id="seo-tab" data-bs-toggle="tab" href="#seo">SEO Info</a>
+            </li>
         </ul>
 
         <!-- 🛠️ Wrap form outside the tabs to ensure all inputs are submitted -->
@@ -23,7 +25,7 @@
                 <!-- General Info Tab -->
                 <div class="tab-pane fade show active" id="general">
                     <div class="row mb-3">
-                        <label asp-for="Name" class="col-sm-2 col-form-label text-end">Name</label>
+                        <label asp-for="Name" class="col-sm-2 col-form-label text-end">Title</label>
                         <div class="col-sm-10">
                             <input asp-for="Name" class="form-control" required />
                             <span asp-validation-for="Name" class="text-danger"></span>
@@ -58,8 +60,32 @@
                     </div>
                 </div>
 
-               
-                
+                <!-- SEO Info Tab -->
+                <div class="tab-pane fade" id="seo">
+                    <div class="row mb-3">
+                        <label asp-for="SEO_Title" class="col-sm-2 col-form-label text-end">SEO Title</label>
+                        <div class="col-sm-10">
+                            <input asp-for="SEO_Title" class="form-control" placeholder="Enter SEO title" />
+                            <span asp-validation-for="SEO_Title" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label asp-for="SEO_Description" class="col-sm-2 col-form-label text-end">SEO Description</label>
+                        <div class="col-sm-10">
+                            <textarea asp-for="SEO_Description" class="form-control" placeholder="Enter SEO description"></textarea>
+                            <span asp-validation-for="SEO_Description" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label asp-for="SEO_Keywords" class="col-sm-2 col-form-label text-end">SEO Keywords</label>
+                        <div class="col-sm-10">
+                            <input asp-for="SEO_Keywords" class="form-control" placeholder="Enter SEO keywords (comma separated)" />
+                            <span asp-validation-for="SEO_Keywords" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <!-- Submit & Cancel Buttons (✅ Now aligned properly) -->

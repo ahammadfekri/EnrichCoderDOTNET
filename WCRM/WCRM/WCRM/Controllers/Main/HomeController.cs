@@ -117,6 +117,11 @@ namespace WCRM.Controllers.Main
                     configs.Vimeo = reader.IsDBNull(reader.GetOrdinal("vimeo")) ? "N/A" : reader.GetString(reader.GetOrdinal("vimeo"));
                     configs.Quora = reader.IsDBNull(reader.GetOrdinal("quora")) ? "N/A" : reader.GetString(reader.GetOrdinal("quora"));
                     configs.MySpace = reader.IsDBNull(reader.GetOrdinal("myspace")) ? "N/A" : reader.GetString(reader.GetOrdinal("myspace"));
+
+                    configs.happyclient = reader.IsDBNull(reader.GetOrdinal("happyclient")) ? 0 : reader.GetInt32(reader.GetOrdinal("happyclient"));
+                    configs.award = reader.IsDBNull(reader.GetOrdinal("award")) ? 0 : reader.GetInt32(reader.GetOrdinal("award"));
+                    configs.projects = reader.IsDBNull(reader.GetOrdinal("projects")) ? 0 : reader.GetInt32(reader.GetOrdinal("projects"));
+                    configs.team_member = reader.IsDBNull(reader.GetOrdinal("team_member")) ? 0 : reader.GetInt32(reader.GetOrdinal("team_member"));
                     //});
                 }
             }
@@ -154,7 +159,7 @@ namespace WCRM.Controllers.Main
 
             using (SqlConnection conn = new SqlConnection(connString))
             {
-                string query = "select top 6 Id, name,description from products  where Status='Published'   ORDER BY created_at DESC ";
+                string query = "select top 6 Id, name,description,icon from products  where Status='Published'   ORDER BY created_at DESC ";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 conn.Open();
 
@@ -165,8 +170,8 @@ namespace WCRM.Controllers.Main
                     {
                         Id = Convert.ToInt16(reader["Id"]),
                         Name = reader["name"].ToString(),
-                        Description = reader["description"].ToString()//,
-                        //Icon = reader["icon"].ToString()
+                        Description = reader["description"].ToString(),
+                        Icon = reader["icon"].ToString()
                     });
                 }
             }

@@ -16,6 +16,12 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Home/Error");
 }
 app.UseStaticFiles();
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//    FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(
+//        Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "WCRM", "wwwroot", "uploads")),
+//    RequestPath = "/uploads"
+//});
 
 app.UseRouting();
 
